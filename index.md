@@ -2,16 +2,20 @@
 
 Spring 2020
 
-FIXME
+## Description 
+
+This course provides an introduction hardware/software co-design. It focuses on 
+designing systems partially implemented in software and partially in hardware,
+with the hardware components designed to accelerate overall application computations.  
+We study how hardware and software interact, how the computer system's
+architecture impacts this interaction, and how to utilize hardware designs to
+partition and accelerate software-based systems.  
 
 ## Quick Links
 
 ### [Syllabus](syllabus.md)
-
 ### [Lecture Slides](https://drive.google.com/drive/folders/1pHBSAonP4FcpAmzgQB6zeGL0lf40avk5?usp=sharing)
-
 ### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
-
 ### [Piazza](https://piazza.com/iu/spring2020/engr315) 
 
 ### [Downloads](https://drive.google.com/drive/folders/1F7L00AAyPGXuPK9kL2j7kHGzELXcVFp2?usp=sharing)

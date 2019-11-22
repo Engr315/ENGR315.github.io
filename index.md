@@ -14,18 +14,21 @@ partition and accelerate software-based systems.
 ## Quick Links
 
 ### [Syllabus](syllabus.md)
+
 ### [Lecture Slides](https://drive.google.com/drive/folders/1pHBSAonP4FcpAmzgQB6zeGL0lf40avk5?usp=sharing)
-### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
+
 ### [Piazza](https://piazza.com/iu/spring2020/engr315) 
 
 ### [Downloads](https://drive.google.com/drive/folders/1F7L00AAyPGXuPK9kL2j7kHGzELXcVFp2?usp=sharing)
 
-### [Canvas](https://iu.instructure.com/courses/1773083) _(Registered students only)_
+### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
+
+### [Canvas](https://iu.instructure.com/courses/1858674) _(Registered students only)_
 
 
 ## Projects
 
-[P0 - Vivado Tutorial](https://docs.google.com/document/d/1kZTcPmTAU91HoLOlRBrc2Nz9sa5rJYhDsOkhBRS8Asc)
+[P0 - Vivado SDK Tutorial](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
 
 ## Course Schedule
 
@@ -46,15 +49,15 @@ This is the tentative schedule for this semester.
 | 2/17  | Monday    | Synchronization           |                       |
 | 2/19  | Wednesday | Synchronization           | Exp. Moving Average   |
 | 2/24  | Monday    | Direct Memory Access      |                       |
-| 2/26  | Wednesday | Direct Memory Access      | Bit Count             |
+| 2/26  | Wednesday | Direct Memory Access      | Bit Counting          |
 | 3/2   | Monday    | Review                    |                       |
-| 3/4   | Wednesday | Exam I                    | Bit Count             |    
+| 3/4   | Wednesday | Exam I                    | Bit Counting          |    
 | 3/9   | Monday    | Direct Memory Access      |                       |
-| 3/11  | Wednesday | Direct Memory Access      | Bit Count             |
+| 3/11  | Wednesday | Direct Memory Access      | Bit Counting          |
 | 3/16  | Monday    | Performance Measurement   |                       |
-| 3/18  | Wednesday | Performance Measurement   | Bit Count             |  
+| 3/18  | Wednesday | Performance Measurement   | Floating Point        |  
 | 3/23  | Monday    | Control & Data Flow       |                       |
-| 3/25  | Wednesday | FPGA-SoC                  | ML Inference          | 
+| 3/25  | Wednesday | FPGA-SoC                  | Floating Point        | 
 | 3/30  | Monday    | FPGA-SoC                  |                       |
 | 4/1   | Wednesday | Debugging II              | ML Inference          |
 | 4/6   | Monday    | Profiling                 |                       |

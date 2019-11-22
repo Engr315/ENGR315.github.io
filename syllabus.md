@@ -45,24 +45,24 @@ Computer Science:  C334 and P441
 
 ## Textbooks
 
-[Practical Introduction to Hardware/Software Codesign](http://link.springer.com/book/10.1007/978-1-4614-3737-6) 
-Patrick Schaumont 
-Springer, 2nd Edition, 2013, xxii+480p 
-ISBN 978-1-4614-3736-9 (print) 
-ISBN 978-1-4614-3737-6 (online) 
-DOI 10.1007/978-1-4614-3737-6 
+[Practical Introduction to Hardware/Software Codesign](http://link.springer.com/book/10.1007/978-1-4614-3737-6)  
+Patrick Schaumont  
+Springer, 2nd Edition, 2013, xxii+480p   
+ISBN 978-1-4614-3736-9 (print)   
+ISBN 978-1-4614-3737-6 (online)   
+DOI 10.1007/978-1-4614-3737-6   
 
-Students at Indiana University can access the PDF of the book online on [SpringerLink](http://link.springer.com/book/10.1007/978-1-4614-3737-6) 
+Students at Indiana University can access the PDF of the book online on [SpringerLink](http://link.springer.com/book/10.1007/978-1-4614-3737-6)  
 ( Please do not post or redistribute the PDFs. )
 
 
 [The Zynq Book: Embedded Processing with the Arm Cortex-A9 on the Xilinx
-Zynq-7000 All Programmable Soc](http://www.zynqbook.com) 
-Louise H. Crockett, Ross A. Elliot, Martin A. Enderwitz & Robert W. Stewart 
-Strathclyde Academic Media, 2014 
-ISBN: 978-0992978709
+Zynq-7000 All Programmable Soc](http://www.zynqbook.com)   
+Louise H. Crockett, Ross A. Elliot, Martin A. Enderwitz & Robert W. Stewart   
+Strathclyde Academic Media, 2014   
+ISBN: 978-0992978709  
 
-This book is available for free download on [ZynkBook.com](http://zynkbook.com)
+This book is available for free download on [ZynkBook.com](http://zynkbook.com)   
 
 Additional materials may be provided on an as-needed basis on the course website.
 

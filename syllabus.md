@@ -19,7 +19,7 @@ Having completed this course, you will have experience with the following:
  * Partitioning software programs based on interfaces, and creating appropriate 
     hardware-software interfaces; 
 
- * Identify performance bottlenecks in a given application and optimizing 
+ * Identifying performance bottlenecks in a given application and optimizing 
     them by transforming the design;
 
 ## Instructor
@@ -40,19 +40,19 @@ IF 4111 (Luddy Hall)
 
 ## Prerequisites
 
-Engineering:  E201 and E210 
+Engineering:  E201 and E210  
 Computer Science:  C335 and P441 
 
 ## Textbook
 
-[Practical Introduction to Hardware/Software Codesign](http://link.springer.com/book/10.1007/978-1-4614-3737-6)
-Patrick Schaumont
-Springer, 2nd Edition, 2013, xxii+480p
-ISBN 978-1-4614-3736-9 (print)
-ISBN 978-1-4614-3737-6 (online)
-DOI 10.1007/978-1-4614-3737-6
+[Practical Introduction to Hardware/Software Codesign](http://link.springer.com/book/10.1007/978-1-4614-3737-6) 
+Patrick Schaumont 
+Springer, 2nd Edition, 2013, xxii+480p 
+ISBN 978-1-4614-3736-9 (print) 
+ISBN 978-1-4614-3737-6 (online) 
+DOI 10.1007/978-1-4614-3737-6 
 
-Students at Indiana University can access the PDF of the book online on [SpringerLink](http://link.springer.com/book/10.1007/978-1-4614-3737-6)
+Students at Indiana University can access the PDF of the book online on [SpringerLink](http://link.springer.com/book/10.1007/978-1-4614-3737-6) 
 ( Please do not post or redistribute the PDFs. )
 
 Other materials may be provided on an as-needed basis on the course website.
@@ -92,15 +92,16 @@ In all cases, we require written proof of the emergency.
 
 ## Grading
 
-Your final grade is based on scores from the programming projects and two exams. The
-tentative point distribution is included in the following table. It is not
-likely that this will change, but circumstances might occur which would make
-changes necessary, at the discretion of the instructor. *Once a grade has been
-posted to Canvas, you will have one week to appeal the grade.*
+Your final grade is based on scores from exams, the programming projects, and
+the final design challenge. The tentative point distribution is included in the
+following table. It is not likely that this will change, but circumstances might
+occur which would make changes necessary, at the discretion of the instructor.
+*Once a grade has been posted to Canvas, you will have one week to appeal the
+grade.*
 
-|    Projects   | Exam 1      | Exam 2 |
-| ------------- | ----------- | --------|
-| 50%           |    25%      |  25%.   | 
+| Exam 1   | Exam 2 | Projects  |    Design Challenge   |
+| -------- | -------|  ---      | -------------         |
+|    20%   |  20%   |  35%      |    25%                | 
 
 
 ## The Autograder
@@ -124,7 +125,7 @@ regularly and post technical questions as it will be a significant source of
 help and hints on the projects. *We do not answer technical questions via
 email*. To save everyone time, we want all students to have the benefit of
 seeing each question and its answer, so please use the forum. We prohibit
-posting your own solutions, project code, test cases, or autograder output to
+publicly posting your own solutions, project code, test cases, or autograder output to
 the forum.
 
 ## Academic Integrity

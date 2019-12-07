@@ -41,7 +41,7 @@ IF 4111 (Luddy Hall)
 ## Prerequisites
 
 Engineering:  E201 and E210  
-Computer Science:  C334 and P441 
+Computer Science:  C335 and P441 
 
 ## Textbooks
 

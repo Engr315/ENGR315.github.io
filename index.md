@@ -48,12 +48,12 @@ This is the tentative schedule for this semester.
 | 2/12  | Wednesday | Direct Memory Access      | Exp. Moving Average   |    
 | 2/17  | Monday    | Memory Protection         |                       |
 | 2/19  | Wednesday | Linker / Loader           | Exp. Moving Average   |
-| 2/24  | Monday    | Linker / Loader           |                       |
+| 2/24  | Monday    | Compiler Optimizations    |                       |
 | 2/26  | Wednesday | Debugging I               | Bit Counting          |
 | 3/2   | Monday    | Review                    |                       |
 | 3/4   | Wednesday | Exam I                    | Bit Counting          |    
-| 3/9   | Monday    | Direct Memory Access      |                       |
-| 3/11  | Wednesday | Direct Memory Access      | Bit Counting          |
+| 3/9   | Monday    | Linux                     |                       |
+| 3/11  | Wednesday | Linux                     | Bit Counting          |
 | 3/16  | Monday    | Performance Measurement   |                       |
 | 3/18  | Wednesday | Performance Measurement   | Floating Point        |  
 | 3/23  | Monday    | Control & Data Flow       |                       |

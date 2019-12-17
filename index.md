@@ -40,16 +40,16 @@ This is the tentative schedule for this semester.
 | 1/15  | Wednesday | Memory-Mapped IO          | Blinking LEDS         |
 | 1/20  | Monday    | NO CLASS                  |                       |
 | 1/22  | Wednesday | Memory-Mapped IO          | Mega Multiply         | 
-| 1/27  | Monday    | Memory-Mapped IO          |                       |
-| 1/29  | Wednesday | Debugging I               | Mega Multiply         |
+| 1/27  | Monday    | On-Chip Buses             |                       |
+| 1/29  | Wednesday | On-Chip Buses             | Mega Multiply         |
 | 2/3   | Monday    | On-Chip Buses             |                       |
-| 2/5   | Wednesday | On-Chip Buses             | Exp. Moving Average   |     
-| 2/10  | Monday    | On-Chip Buses             |                       |
-| 2/12  | Wednesday | On-Chip Buses             | Exp. Moving Average   |    
-| 2/17  | Monday    | Synchronization           |                       |
-| 2/19  | Wednesday | Synchronization           | Exp. Moving Average   |
-| 2/24  | Monday    | Direct Memory Access      |                       |
-| 2/26  | Wednesday | Direct Memory Access      | Bit Counting          |
+| 2/5   | Wednesday | Direct Memory Access      | Exp. Moving Average   |     
+| 2/10  | Monday    | Direct Memory Access      |                       |
+| 2/12  | Wednesday | Direct Memory Access      | Exp. Moving Average   |    
+| 2/17  | Monday    | Memory Protection         |                       |
+| 2/19  | Wednesday | Linker / Loader           | Exp. Moving Average   |
+| 2/24  | Monday    | Linker / Loader           |                       |
+| 2/26  | Wednesday | Debugging I               | Bit Counting          |
 | 3/2   | Monday    | Review                    |                       |
 | 3/4   | Wednesday | Exam I                    | Bit Counting          |    
 | 3/9   | Monday    | Direct Memory Access      |                       |

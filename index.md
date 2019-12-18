@@ -28,7 +28,12 @@ partition and accelerate software-based systems.
 
 ## Projects
 
-[P0 - Vivado SDK Tutorial](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
+[P1 - Blinking LEDs](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
+
+[P2 - Meta Multiply](https://docs.google.com/document/d/1f7u7QJJ32AM1liW9sximbdjBCLsJNu3DhcO3tE-Fcyc)
+
+[P3 - Exp. Moving Average](https://docs.google.com/document/d/1e9pKW8jmkTzBqklJmH242OeL7Ld5hEkfb25EU77XLDM)
+
 
 ## Course Schedule
 
@@ -56,11 +61,11 @@ This is the tentative schedule for this semester.
 | 3/11  | Wednesday | Linux                     | Bit Counting          |
 | 3/16  | Monday    | Performance Measurement   |                       |
 | 3/18  | Wednesday | Performance Measurement   | Floating Point        |  
-| 3/23  | Monday    | Control & Data Flow       |                       |
-| 3/25  | Wednesday | FPGA-SoC                  | Floating Point        | 
-| 3/30  | Monday    | FPGA-SoC                  |                       |
-| 4/1   | Wednesday | Debugging II              | ML Inference          |
-| 4/6   | Monday    | Profiling                 |                       |
+| 3/23  | Monday    | Performance Optimization  |                       |
+| 3/25  | Wednesday | Performance Optimization  | Floating Point        | 
+| 3/30  | Monday    | Debugging II              |                       |
+| 4/1   | Wednesday | Multi-Layer Perceptrons   | ML Inference          |
+| 4/6   | Monday    | Multi-Layer Perceptrons   |                       |
 | 4/8   | Wednesday | Profiling                 | ML Inference          |
 | 4/13  | Monday    | NO CLASS                  |                       |
 | 4/15  | Wednesday | NO CLASS                  | ML Inference          |

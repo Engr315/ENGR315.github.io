@@ -15,7 +15,7 @@ partition and accelerate software-based systems.
 
 ### [Syllabus](syllabus.md)
 
-### [Lecture Slides](lectures)
+### [Lecture Slides](https://github.com/engr315/lecture_slides) 
 
 ### [Piazza](https://piazza.com/iu/spring2020/engr315) 
 

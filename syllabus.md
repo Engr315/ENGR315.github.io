@@ -62,7 +62,7 @@ Louise H. Crockett, Ross A. Elliot, Martin A. Enderwitz & Robert W. Stewart
 Strathclyde Academic Media, 2014   
 ISBN: 978-0992978709  
 
-This book is available for free download on [ZynkBook.com](http://www.zynkbook.com)   
+This book is available for free download on [ZynqBook.com](http://www.zynqbook.com)   
 
 Additional materials may be provided on an as-needed basis on the course website.
 

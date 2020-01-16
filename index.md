@@ -19,7 +19,7 @@ partition and accelerate software-based systems.
 
 ### [Piazza](https://piazza.com/iu/spring2020/engr315) 
 
-### [Downloads](https://drive.google.com/drive/folders/1F7L00AAyPGXuPK9kL2j7kHGzELXcVFp2?usp=sharing)
+### [Downloads](https://drive.google.com/drive/folders/1GvRa547P0aJMfS16QXnlmw00qvuzJiGJ?usp=sharing)
 
 ### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
 

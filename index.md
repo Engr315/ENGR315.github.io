@@ -17,8 +17,6 @@ partition and accelerate software-based systems.
 
 ### [Lecture Slides](https://github.com/engr315/lecture_slides) 
 
-### [Piazza](https://piazza.com/iu/spring2020/engr315) 
-
 ### [Downloads](https://drive.google.com/drive/folders/1GvRa547P0aJMfS16QXnlmw00qvuzJiGJ?usp=sharing)
 
 ### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_

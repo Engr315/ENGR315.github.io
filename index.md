@@ -34,6 +34,7 @@ partition and accelerate software-based systems.
 
 [P3 - Exp. Moving Average](https://docs.google.com/document/d/1e9pKW8jmkTzBqklJmH242OeL7Ld5hEkfb25EU77XLDM)
 
+[P4 - Bitcounting](https://docs.google.com/document/d/1RNPc4r2bKhwEj0n96p_kqQbENdzikBAGi6dRorFOlvU)
 
 ## Course Schedule
 

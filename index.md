@@ -26,6 +26,8 @@ partition and accelerate software-based systems.
 
 ## Projects
 
+[RED Setup](https://docs.google.com/document/d/1GuOK0B6Irj_u6LjxMiwTBXgFvxtb-kuTXEFyj7-wQYI)
+
 [P1 - Blinking LEDs](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
 
 [P2 - Meta Multiply](https://docs.google.com/document/d/1f7u7QJJ32AM1liW9sximbdjBCLsJNu3DhcO3tE-Fcyc)

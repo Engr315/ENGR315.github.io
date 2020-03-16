@@ -24,9 +24,15 @@ partition and accelerate software-based systems.
 ### [Canvas](https://iu.instructure.com/courses/1858674) _(Registered students only)_
 
 
-## Projects
+## Remote Setup
+
+[Slack](https://app.slack.com/client/TT9GXCAVA/CSZRAH8UR)
 
 [RED Setup](https://docs.google.com/document/d/1GuOK0B6Irj_u6LjxMiwTBXgFvxtb-kuTXEFyj7-wQYI)
+
+[Pynq Network Setup](https://docs.google.com/document/d/1i-IbmVQ2isauEg50CN2s8E3xESR1mAaM4FTGclJopJ0)
+
+## Projects
 
 [P1 - Blinking LEDs](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
 
@@ -42,26 +48,26 @@ This is the tentative schedule for this semester.
 
 | Date  |   Day     | Lecture Topic             |  Project Topic        | 
 | --    |  -----    |   -----                   |     -----             | 
-| 1/13  | Monday    | Introduction              |                       |
-| 1/15  | Wednesday | Memory-Mapped IO          | Blinking LEDS         |
+| 1/13  | Monday    | 00 Introduction           |                       |
+| 1/15  | Wednesday | 01 Memory-Mapped IO       | Blinking LEDS         |
 | 1/20  | Monday    | NO CLASS                  |                       |
-| 1/22  | Wednesday | Memory-Mapped IO          | Mega Multiply         | 
-| 1/27  | Monday    | On-Chip Buses             |                       |
-| 1/29  | Wednesday | On-Chip Buses             | Mega Multiply         |
-| 2/3   | Monday    | On-Chip Buses             |                       |
-| 2/5   | Wednesday | Direct Memory Access      | Exp. Moving Average   |     
-| 2/10  | Monday    | Direct Memory Access      |                       |
-| 2/12  | Wednesday | Direct Memory Access      | Exp. Moving Average   |    
-| 2/17  | Monday    | Memory Protection         |                       |
-| 2/19  | Wednesday | Linker / Loader           | Exp. Moving Average   |
-| 2/24  | Monday    | Compiler Optimizations    |                       |
-| 2/26  | Wednesday | Debugging I               | Bit Counting          |
-| 3/2   | Monday    | Review                    |                       |
+| 1/22  | Wednesday | 02 On-Chip Buses          | Mega Multiply         | 
+| 1/27  | Monday    | 03 On-Chip Buses          |                       |
+| 1/29  | Wednesday | 04 On-Chip Buses          | Mega Multiply         |
+| 2/3   | Monday    | 05 Direct Memory Access   |                       |
+| 2/5   | Wednesday | 06 DMA Control            | Exp. Moving Average   |     
+| 2/10  | Monday    | 07 Programmable DMA       |                       |
+| 2/12  | Wednesday | 08 Memory Protection      | Exp. Moving Average   |    
+| 2/17  | Monday    | 09 Linker / Loader        |                       |
+| 2/19  | Wednesday | 10 Intro to Caches        | Exp. Moving Average   |
+| 2/24  | Monday    | 11 Caches II              |                       |
+| 2/26  | Wednesday | 12 TLBs                   | Bit Counting          |
+| 3/2   | Monday    | 13 Review                 |                       |
 | 3/4   | Wednesday | Exam I                    | Bit Counting          |    
-| 3/9   | Monday    | Linux                     |                       |
-| 3/11  | Wednesday | Linux                     | Bit Counting          |
-| 3/16  | Monday    | Performance Measurement   |                       |
-| 3/18  | Wednesday | Performance Measurement   | Floating Point        |  
+| 3/9   | Monday    | 14 Linux on FPGAs         |                       |
+| 3/11  | Wednesday | 15 Call-Stack Profiling   | Bit Counting          |
+| 3/16  | Monday    | NO CLASS                  |                       |
+| 3/18  | Wednesday | NO CLASS                  | Floating Point        |  
 | 3/23  | Monday    | Performance Optimization  |                       |
 | 3/25  | Wednesday | Performance Optimization  | Floating Point        | 
 | 3/30  | Monday    | Debugging II              |                       |

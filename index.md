@@ -69,15 +69,15 @@ This is the tentative schedule for this semester.
 | 3/16  | Monday    | NO CLASS                  |                       |
 | 3/18  | Wednesday | NO CLASS                  | P4 Bit Counting       |  
 | 3/23  | Monday    | OFFICE HOURS ONLY         |                       |
-| 3/25  | Wednesday | OFFICE HOURS ONLY         | P5 ML Inference       |
-| 3/30  | Monday    | Multi-Layer Perceptrons   |                       |
-| 4/1   | Wednesday | Multi-Layer Perceptrons   | P5 ML Inference       |
-| 4/6   | Monday    | Profiling                 |                       |
-| 4/8   | Wednesday | Profiling                 | P5 ML Inference       |
+| 3/25  | Wednesday | OFFICE HOURS ONLY         | P4 Bit Counting       |
+| 3/30  | Monday    | Profiling                 |                       |
+| 4/1   | Wednesday | Profiling                 | PX ML Inference       |
+| 4/6   | Monday    | Multi-Layer Perceptrons   |                       |
+| 4/8   | Wednesday | Multi-Layer Perceptrons   | PX ML Inference       |
 | 4/13  | Monday    | Parallel Programming      |                       |
-| 4/15  | Wednesday | Parallel Programming      | P5 ML Inference       |
+| 4/15  | Wednesday | Parallel Programming      | PX ML Inference       |
 | 4/20  | Monday    | Parallel Programming      |                       | 
-| 4/22  | Wednesday | Parallel Programming      | P5 ML Inference       | 
+| 4/22  | Wednesday | Parallel Programming      | PX ML Inference       | 
 | 4/27  | Monday    | Overflow                  |                       |
-| 4/29  | Wednesday | Review                    | ---                   |
-| 5/8   | Friday    | Final                     | Virtual               | 
+| 4/29  | Wednesday | Review                    | PX ML Inference       | 
+| 5/8   | Friday    | PX Final Report Due       |                       | 

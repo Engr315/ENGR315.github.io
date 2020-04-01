@@ -19,7 +19,7 @@ partition and accelerate software-based systems.
 
 ### [Downloads](https://drive.google.com/drive/folders/1GvRa547P0aJMfS16QXnlmw00qvuzJiGJ?usp=sharing)
 
-### [Autograder ](https://autograder.sice.indiana.edu) _(Only accessible within IU)_
+### [Autograder ](https://autograder.sice.indiana.edu)
 
 ### [Canvas](https://iu.instructure.com/courses/1858674) _(Registered students only)_
 

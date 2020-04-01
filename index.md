@@ -23,6 +23,7 @@ partition and accelerate software-based systems.
 
 ### [Canvas](https://iu.instructure.com/courses/1858674) _(Registered students only)_
 
+### [Zoom](https://iu.zoom.us/j/362983973)
 
 ## Remote Setup
 

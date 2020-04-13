@@ -43,6 +43,8 @@ partition and accelerate software-based systems.
 
 [P4 - Bitcounting](https://docs.google.com/document/d/1RNPc4r2bKhwEj0n96p_kqQbENdzikBAGi6dRorFOlvU)
 
+[PX - Accelerating Machine Learning](https://docs.google.com/document/d/1UphnXadOCnuIDnqv7KrRn8DV3CH7Q90x0BT59jAW-FI) 
+
 ## Course Schedule
 
 This is the tentative schedule for this semester.

@@ -37,6 +37,9 @@ partition and accelerate software-based systems.
 [P1 -
 Circles](https://docs.google.com/document/d/19RJuI36xUifk_I7YlBeY-k063Gj4gJEuyoTRnWqXUlA/edit)
 
+[P2 -
+Correlation](https://docs.google.com/document/d/1OnPW7GvSvcdtVuDCgDzKF1uvwplZkn-wKnNfx14_LTQ)
+
 [P1 - Blinking LEDs](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
 
 [P2 - Mega Multiply](https://docs.google.com/document/d/1f7u7QJJ32AM1liW9sximbdjBCLsJNu3DhcO3tE-Fcyc)

@@ -22,7 +22,7 @@ applications. A more detailed description can be found in the
 
 ### [Canvas](https://iu.instructure.com/courses/1947790) _(Registered students only)_
 
-### [Zoom](https://iu.zoom.us/j/362983973)
+### [Zoom](https://iu.zoom.us/j/82546848629) _(Password posted on Canvas)_
 
 ### [Slack](http://engr315.github.io) (Not Yet Setup)
 

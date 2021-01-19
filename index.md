@@ -16,17 +16,18 @@ applications. A more detailed description can be found in the
 
 ### [Lecture Slides](https://github.com/engr315/lecture_slides) 
 
-### [Downloads](https://drive.google.com/drive/folders/1GvRa547P0aJMfS16QXnlmw00qvuzJiGJ?usp=sharing)
+### [Other Downloads](https://github.com/Engr315/downloads) 
 
-### [Autograder ](https://autograder.sice.indiana.edu)
+### [Autograder](https://autograder.sice.indiana.edu)
 
 ### [Canvas](https://iu.instructure.com/courses/1947790) _(Registered students only)_
 
-### [Zoom](https://iu.zoom.us/j/82546848629) _(Password posted on Canvas)_
+### [Zoom](https://iu.zoom.us/j/82546848629) _(Requires students only)_ 
 
 ### [Slack](http://engr315.github.io) (Not Yet Setup)
 
 ### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
+
 <!--
 (https://docs.google.com/document/d/1GuOK0B6Irj_u6LjxMiwTBXgFvxtb-kuTXEFyj7-wQYI)
 -->

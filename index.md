@@ -22,7 +22,10 @@ applications. A more detailed description can be found in the
 
 ### [Canvas](https://iu.instructure.com/courses/1947790) _(Registered students only)_
 
-### [Zoom](https://iu.zoom.us/j/82546848629) _(Requires students only)_ 
+### Zoom _(Requires students only)_ 
+
+ - [Lecture](https://iu.zoom.us/j/82546848629) 
+ - [Labs / Office Hours](https://iu.zoom.us/j/82546848629) 
 
 ### [Slack](https://engr-e315spring2020.slack.com)
 

@@ -24,7 +24,7 @@ applications. A more detailed description can be found in the
 
 ### [Zoom](https://iu.zoom.us/j/82546848629) _(Requires students only)_ 
 
-### [Slack](http://engr315.github.io) (Not Yet Setup)
+### [Slack](https://engr-e315spring2020.slack.com)
 
 ### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
 

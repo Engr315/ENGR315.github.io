@@ -27,7 +27,7 @@ applications. A more detailed description can be found in the
  - [Lecture](https://iu.zoom.us/j/82546848629) 
  - [Labs / Office Hours](https://iu.zoom.us/j/82546848629) 
 
-### [Slack](https://engr-e315spring2020.slack.com)
+### [Slack](https://engr315.slack.com) 
 
 ### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
 

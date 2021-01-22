@@ -25,7 +25,7 @@ applications. A more detailed description can be found in the
 ### Zoom _(Requires students only)_ 
 
  - [Lecture](https://iu.zoom.us/j/82546848629) 
- - [Labs / Office Hours](https://iu.zoom.us/j/82546848629) 
+ - [Labs / Office Hours](https://iu.zoom.us/j/81368878668)
 
 ### [Slack](https://engr315.slack.com) 
 

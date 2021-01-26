@@ -34,10 +34,16 @@ Andrew Lukefahr
 lukefahr@iu.edu  
 2032 Luddy Hall  
 
+Office Hours:  Tues/Thurs 4:30pm-5:00pm (after class)\
+Lecture Zoom
+
 ## TA
 
 Prateek Srivastava\
 pratsriv@iu.edu
+
+Office Hours: Wednesday, 2:00pm - 4:00pm\
+Office Hours / Lab Zoom
 
 ## Schedule
 

@@ -86,10 +86,10 @@ This is the tentative schedule for this semester.
 | 3/02  | Tuesday   | 11    | Direct Memory Access I    |                       |
 | 3/04  | Thursday  | 12    | Direct Memory Access II   | P4 Bit Counting (MMIO)|
 | 3/09  | Tuesday   | 13    | Direct Memory Access III  |                       |
-| 3/11  | Thursday  | 14    | Review                    | P4 Bit Counting (MMIO)|    
-| 3/16  | Tuesday   | -     | Exam                      |                       |
-| 3/18  | Thursday  | 15    | Parallel Hardware I       | P4 Bit Counting (DMA)|
-| 3/23  | Tuesday   | 16    | Parallel Hardware II      |                       |
+| 3/11  | Thursday  | 14    | Direct Memory Access IV   | P4 Bit Counting (MMIO)|    
+| 3/16  | Tuesday   | -     | Review                    |                       |
+| 3/18  | Thursday  | 15    | Exam                      | P4 Bit Counting (DMA)|
+| 3/23  | Tuesday   | 16    | Parallel Hardware I      |                       |
 | 3/25  | Thursday  | 17    | Caches I                  | P4 Bit Counting (DMA)|  
 | 3/30  | Tuesday   | 18    | Caches II                 |                       |
 | 4/01  | Thursday  | 19    | Memory Protection I       | P5 Dot Product        |

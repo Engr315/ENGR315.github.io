@@ -88,15 +88,15 @@ This is the tentative schedule for this semester.
 | 3/09  | Tuesday   | 13    | Direct Memory Access III  |                       |
 | 3/11  | Thursday  | 14    | Direct Memory Access IV   | P4 Bit Counting (MMIO)|    
 | 3/16  | Tuesday   | -     | Review                    |                       |
-| 3/18  | Thursday  | 15    | Exam                      | P4 Bit Counting (DMA)|
-| 3/23  | Tuesday   | 16    | Parallel Hardware I      |                       |
-| 3/25  | Thursday  | 17    | Caches I                  | P4 Bit Counting (DMA)|  
-| 3/30  | Tuesday   | 18    | Caches II                 |                       |
-| 4/01  | Thursday  | 19    | Memory Protection I       | P5 Dot Product        |
+| 3/18  | Thursday  | 15    | Memory Protection I       | P4 Bit Counting (MMIO)|
+| 3/23  | Tuesday   | 16    | Exam                      |                       |
+| 3/25  | Thursday  | 17    | Memory Protection II      | P4 Bit Counting (DMA) |
+| 3/30  | Tuesday   | 18    | Multi-Layer Perceptrons I |                       |
+| 4/01  | Thursday  | 19    |  emory Protection I       | P4 Bit Counting (DMA) |
 | 4/06  | Tuesday   | 20    | Memory Protection II      |                       |
 | 4/08  | Thursday  | 21    | Multi-Layer Perceptrons I | P5 Dot Product        |
 | 4/13  | Tuesday   | 22    | Multi-Layer Perceptrons II|                       |
-| 4/15  | Thursday  | 23    | Linux Kernel I            | PX ML Inference       |
+| 4/15  | Thursday  | 23    | Linux Kernel I            | P5 Dot Product        |
 | 4/20  | Tuesday   | 24    | Linux Kernel II           |                       |
 | 4/22  | Thursday  | -     | WELLNESS DAY              | PX ML Inference       |
 | 4/20  | Tuesday   | 25    | Linux Kernel III          |                       | 

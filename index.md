@@ -50,6 +50,10 @@ EMA](https://docs.google.com/document/d/1fSf7-kz0epFUMWitFE677ZyorHz32iaVw1Fr9xN
 [P4 - Popcount (MMIO)
 ](https://docs.google.com/document/d/1e4g7aX_v0s9yUcmW9FqVyLte9nAd2dtLZZM_io3QJoE)
 
+[P5 - Popcount
+(DMA)](https://docs.google.com/document/d/1e4g7aX_v0s9yUcmW9FqVyLte9nAd2dtLZZM_io3QJoE)
+
+
 <!--
 [P1 - Blinking LEDs](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
 -->

@@ -53,6 +53,8 @@ EMA](https://docs.google.com/document/d/1fSf7-kz0epFUMWitFE677ZyorHz32iaVw1Fr9xN
 [P5 - Popcount II (DMA)
 ](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)
 
+[P6 - Dot Product
+](https://docs.google.com/document/d/1T3A0i9VGbKmthQHFEh_VQp2VmV2zO4Fyx23BCP6mLYk)
 
 <!--
 [P1 - Blinking LEDs](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
@@ -92,14 +94,14 @@ This is the tentative schedule for this semester.
 | 3/09  | Tuesday   | 13    | Direct Memory Access III  |                       |
 | 3/11  | Thursday  | 14    | Direct Memory Access IV   | P4 Bit Counting (MMIO)|    
 | 3/16  | Tuesday   | -     | Review                    |                       |
-| 3/18  | Thursday  | 15    | Memory Protection I       | P4 Bit Counting (MMIO)|
+| 3/18  | Thursday  | 15    | Memory Management I       | P4 Bit Counting (MMIO)|
 | 3/23  | Tuesday   | 16    | Exam                      |                       |
-| 3/25  | Thursday  | 17    | Memory Protection II      | P4 Bit Counting (DMA) |
-| 3/30  | Tuesday   | 18    | Multi-Layer Perceptrons I |                       |
-| 4/01  | Thursday  | 19    |  emory Protection I       | P4 Bit Counting (DMA) |
-| 4/06  | Tuesday   | 20    | Memory Protection II      |                       |
-| 4/08  | Thursday  | 21    | Multi-Layer Perceptrons I | P5 Dot Product        |
-| 4/13  | Tuesday   | 22    | Multi-Layer Perceptrons II|                       |
+| 3/25  | Thursday  | 17    | Memory Management II      | P4 Bit Counting (DMA) |
+| 3/30  | Tuesday   | 18    | C / Linux Interfacing I   |                       |
+| 4/01  | Thursday  | 19    | C / Linux Interfacing II  | P4 Bit Counting (DMA) |
+| 4/06  | Tuesday   | 20    | Hardware Acceleration I   |                       |
+| 4/08  | Thursday  | 21    | Hardware Acceleration II  | P5 Dot Product        |
+| 4/13  | Tuesday   | 22    | Hardware Acceleration III |                       |
 | 4/15  | Thursday  | 23    | Linux Kernel I            | P5 Dot Product        |
 | 4/20  | Tuesday   | 24    | Linux Kernel II           |                       |
 | 4/22  | Thursday  | -     | WELLNESS DAY              | PX ML Inference       |

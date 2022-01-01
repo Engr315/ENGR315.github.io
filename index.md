@@ -1,12 +1,13 @@
 # Welcome to ENGR 315 
 
-Spring 2021
+Spring 2022
 
 ## Description 
 
 Welcome to E315!  
 
-This course provides an introduction to hardware acceleration of software-based
+This course provides an introduction to hardware/software interaction and using
+hardware to accelerate software-based
 applications. A more detailed description can be found in the
 [syllabus](syllabus).
 
@@ -20,57 +21,47 @@ applications. A more detailed description can be found in the
 
 ### [Autograder](https://autograder.sice.indiana.edu)
 
-### [Canvas](https://iu.instructure.com/courses/1947790) _(Registered students only)_
+### [Canvas](https://iu.instructure.com/courses/2034331) _(Registered students only)_
 
-### Zoom _(Requires students only)_ 
+<!-- ### [Slack](https://engr315.slack.com)  -->
 
- - [Lecture](https://iu.zoom.us/j/82546848629) 
- - [Labs / Office Hours](https://iu.zoom.us/j/81368878668)
+**[Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)**
 
-### [Slack](https://engr315.slack.com) 
-
-### [Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)
-
-<!--
-(https://docs.google.com/document/d/1GuOK0B6Irj_u6LjxMiwTBXgFvxtb-kuTXEFyj7-wQYI)
--->
-
-[Pynq Network Setup](https://docs.google.com/document/d/1i-IbmVQ2isauEg50CN2s8E3xESR1mAaM4FTGclJopJ0)
+**[Pynq Network Setup](https://docs.google.com/document/d/1i-IbmVQ2isauEg50CN2s8E3xESR1mAaM4FTGclJopJ0)**
 
 ## Projects
+
 [P1 -
 Circles](https://docs.google.com/document/d/19RJuI36xUifk_I7YlBeY-k063Gj4gJEuyoTRnWqXUlA/edit)
 
+<!-- 
 [P2 -
-Correlation](https://docs.google.com/document/d/1OnPW7GvSvcdtVuDCgDzKF1uvwplZkn-wKnNfx14_LTQ)
-
-[P3 -
 EMA](https://docs.google.com/document/d/1fSf7-kz0epFUMWitFE677ZyorHz32iaVw1Fr9xNovXY)
 
-[P4 - Popcount (MMIO)
+[P3 - Popcount (MMIO)
 ](https://docs.google.com/document/d/1e4g7aX_v0s9yUcmW9FqVyLte9nAd2dtLZZM_io3QJoE)
 
-[P5 - Popcount II (DMA)
+[P4 - Popcount II (DMA)
 ](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)
 
-[P6 - Dot Product
+[P5 - Dot Product
 ](https://docs.google.com/document/d/1T3A0i9VGbKmthQHFEh_VQp2VmV2zO4Fyx23BCP6mLYk)
 
-[P7 - Accel Dot
+[P6 - Accel Dot
 ](https://docs.google.com/document/d/1HjL1aAhHEbYOBpOYRTyEmPGJ3vP-4qZ5IslJoXBLhhk)
+-->
+
+<!-- 
+SP'2021
+[P2 - Correlation](https://docs.google.com/document/d/1OnPW7GvSvcdtVuDCgDzKF1uvwplZkn-wKnNfx14_LTQ)
+-->
 
 <!--
+SP'2020
 [P1 - Blinking LEDs](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
--->
-
-<!--
 [P2 - Mega Multiply](https://docs.google.com/document/d/1f7u7QJJ32AM1liW9sximbdjBCLsJNu3DhcO3tE-Fcyc)
--->
-<!--
 [P3 - Exp. Moving Average](https://docs.google.com/document/d/1e9pKW8jmkTzBqklJmH242OeL7Ld5hEkfb25EU77XLDM)
-
 [P4 - Bitcounting](https://docs.google.com/document/d/1RNPc4r2bKhwEj0n96p_kqQbENdzikBAGi6dRorFOlvU)
-
 [PX - Accelerating Machine Learning](https://docs.google.com/document/d/1UphnXadOCnuIDnqv7KrRn8DV3CH7Q90x0BT59jAW-FI) 
 -->
 
@@ -80,35 +71,36 @@ This is the tentative schedule for this semester.
                                                         
 | Date  |   Day     | Number| Lecture Topic             |  Project Topic        | 
 | --    |  -----    | --    |  -----                    |     -----             | 
-| 1/19  | Tuesday   | 00    | Introduction              |                       |
-| 1/21  | Thursday  | 01    | Performance Profiling     | P1 Circles            |
-| 1/26  | Tuesday   | 02    | Algorithm Performance I   |                       |
-| 1/28  | Thursday  | 03    | Algorithm Performance II  | P1 Circles            | 
-| 2/02  | Tuesday   | 04    | Partitioning              |                       |
-| 2/04  | Thursday  | 05    | Interfaces                | P2 Correlation        |
-| 2/09  | Tuesday   | 06    | Multicore I               |                       |
-| 2/11  | Thursday  | 07    | Multicore II              | P2 Correlation        |
-| 2/16  | Tuesday   | -     | WELLNESS DAY              |                       |
-| 2/18  | Thursday  | 08    | On-Chip Buses I           | P3 Exp. Moving Average|    
-| 2/23  | Tuesday   | 09    | Memory-Mapped I/O         |                       |
-| 2/25  | Thursday  | 10    | On-Chip Buses II          | P3 Exp. Moving Average|
-| 3/02  | Tuesday   | 11    | Direct Memory Access I    |                       |
-| 3/04  | Thursday  | 12    | Direct Memory Access II   | P4 Bit Counting (MMIO)|
-| 3/09  | Tuesday   | 13    | Direct Memory Access III  |                       |
-| 3/11  | Thursday  | 14    | Direct Memory Access IV   | P4 Bit Counting (MMIO)|    
-| 3/16  | Tuesday   | -     | Review                    |                       |
-| 3/18  | Thursday  | 15    | Memory Management I       | P4 Bit Counting (MMIO)|
-| 3/23  | Tuesday   | 16    | Exam                      |                       |
-| 3/25  | Thursday  | 17    | Memory Management II      | P4 Bit Counting (DMA) |
-| 3/30  | Tuesday   | 18    | C / Linux Interfacing I   |                       |
-| 4/01  | Thursday  | 19    | C / Linux Interfacing II  | P4 Bit Counting (DMA) |
-| 4/06  | Tuesday   | 20    | Hardware Acceleration I   |                       |
-| 4/08  | Thursday  | 21    | Hardware Acceleration II  | P5 Dot Product        |
-| 4/13  | Tuesday   | 22    | Hardware Acceleration III |                       |
-| 4/15  | Thursday  | 23    | Linux Kernel I            | P5 Dot Product        |
-| 4/20  | Tuesday   | 24    | Linux Kernel II           |                       |
-| 4/22  | Thursday  | -     | WELLNESS DAY              | PX ML Inference       |
-| 4/20  | Tuesday   | 25    | Linux Kernel III          |                       | 
-| 4/27  | Thursday  | 26    | Optimization Approaches   | PX ML Inference       | 
-| 4/29  | Tuesday   | 27    | Overflow                  |                       |
-| 5/X   | XXX       | -     | PX Final Report Due       |                       | 
+| 1/11  | Tuesday   | 00    | Introduction              |                       |
+| 1/13  | Thursday  | 01    | Performance Profiling     | P1 Circles (Py)       |
+| 1/18  | Tuesday   | 02    | Algorithm Performance I   |                       |
+| 1/20  | Thursday  | 03    | Algorithm Performance II  | P2 Exp Mov Avg (V)    | 
+| 1/25  | Tuesday   | 04    | Partitioning              |                       |
+| 1/27  | Thursday  | 05    | Interfaces                | P2 Exp Mov Ava (V)    |
+| 2/01  | Tuesday   | 06    | On-Chip Buses I           |                       |
+| 2/03  | Thursday  | 06    | Memory-Mapped I/O         | P3  MMIO Popcount (V) |
+| 2/08  | Tuesday   | 07    | On-Chip Buses II          |                       |
+| 2/10  | Thursday  | 08    | Direct Memory Access I    | P3  MMIO Popcount (V) |
+| 2/15  | Tuesday   | 09    | Direct Memory Access II   |                       |    
+| 2/17  | Thursday  | 10    | Direct Memory Access III  | P4  DMA Popcount (V)  |
+| 2/22  | Tuesday   | 11    | Direct Memory Access IV   |                       |
+| 2/24  | Thursday  | 12    | Memory Management I       | P5 Linux MMIO (C)     |
+| 3/01  | Tuesday   | 13    | Memory management II      |                       |
+| 3/03  | Thursday  | 14    | C / Linux Interfacing I   | P6 Linux DMA (C)      |
+| 3/08  | Tuesday   | 15    | C / Linux Interfacing II  |                       |    
+| 3/10  | Thursday  | 16    | C / Linux Interfacing III | P7 Dot (Py)           |
+| 3/15  | Tuesday   | --    | SPRING BREAK              |                       |
+| 3/17  | Thursday  | --    | SPRING BREAK              | P7 Dot (V)            |
+| 3/22  | Tuesday   | 17    | Review                    |                       |
+| 3/24  | Thursday  | 18    | Exam                      | P7 Dot (V)            |
+| 3/29  | Tuesday   | 19    | Linux Kernel I            |                       |
+| 3/31  | Thursday  | 20    | Linux Kernel II           | PX Accel Dot (V)      |
+| 4/05  | Tuesday   | 21    | Linux Kernel III          |                       |
+| 4/07  | Thursday  | 22    | Hardware Optimization I   | PX Accel Dot (V)      |
+| 4/12  | Tuesday   | 23    | Hardware Optimization II  |                       |
+| 4/14  | Thursday  | 24    | PX Progress Reports       | PX Accel Dot (V)      |
+| 4/19  | Tuesday   | 25    | PX Progress Reports       |                       |
+| 4/21  | Thursday  | 26    | Overflow                  | PX Accel Dot (V)      | 
+| 4/26  | Tuesday   | 27    | Overflow                  |                       | 
+| 4/28  | Thursday  | 28    | Overflow                  | PX Accel Dot (V)      |
+| 5/05  | Thursday  | -     | Final Report Due @ 7.20pm |                       | 

@@ -1,6 +1,6 @@
 # ENGR 315  Syllabus
 
-Spring, 2021
+Spring, 2022
 
 ## Description
 
@@ -16,9 +16,6 @@ Having completed this course, you will have experience with the following:
  * Identifying performance bottlenecks in simple software applications and
     optimizing them algorithmicially to improve performance
  
- * Partitioning software programs into parallel components and utilizing multicore
-    systems to improve application performance
-
  * Transforming portions of software applications into hardware 
     descriptions of equivalent behavior
 
@@ -34,26 +31,24 @@ Andrew Lukefahr
 lukefahr@iu.edu  
 2032 Luddy Hall  
 
-Office Hours:  Tues/Thurs 4:30pm-5:00pm (after class)\
-Lecture Zoom
+Office Hours:  Tues/Thurs 2:00pm-3:00pm (before class)\
+Location:  2032 Luddy Hall
 
 ## TA
 
-Prateek Srivastava\
-pratsriv@iu.edu
+Michael Mitsch\
+mfmitsch@iu.edu
 
-Office Hours: Wednesday, 2:00pm - 4:00pm\
-Office Hours / Lab Zoom
+Office Hours: TBD 
+Location:   TBD
 
 ## Schedule
 
-Lecture:  
-03:15P-04:30P Tuesday/Thursday\
-Virtually via Zoom 
+Lecture Time:  3:15-4:15pm Tuesday/Thursday\
+Location: IF 4111 (Luddy Hall)
 
-Lab:   
-1:45PM-2:35PM, 3:00PM-3:50PM, or 4:15PM-5:05PM Friday\
-IF 4111 (Luddy Hall)   
+Lab Time:  9:10-10:00am Friday\
+Location: IF 4111 (Luddy Hall)   
 
 ## Prerequisites
 
@@ -62,6 +57,9 @@ Computer Science:  C335 and P441
 
 ## Textbooks
 
+Lectures will loosely follow material taken from two different books, listed
+below.  **Both books are available for free to IU students**.
+
 [Practical Introduction to Hardware/Software Codesign](http://link.springer.com/book/10.1007/978-1-4614-3737-6)  
 Patrick Schaumont  
 Springer, 2nd Edition, 2013, xxii+480p   
@@ -69,7 +67,7 @@ ISBN 978-1-4614-3736-9 (print)
 ISBN 978-1-4614-3737-6 (online)   
 DOI 10.1007/978-1-4614-3737-6   
 
-Students at Indiana University can access the PDF of the book online on [SpringerLink](http://link.springer.com/book/10.1007/978-1-4614-3737-6)  
+IU students can access the PDF for free at [SpringerLink](http://link.springer.com/book/10.1007/978-1-4614-3737-6)  
 ( Requires on-campus access.  Please do not post or redistribute the PDFs. )
 
 
@@ -79,7 +77,7 @@ Louise H. Crockett, Ross A. Elliot, Martin A. Enderwitz & Robert W. Stewart
 Strathclyde Academic Media, 2014   
 ISBN: 978-0992978709  
 
-This book is available for free download on [ZynqBook.com](http://www.zynqbook.com)   
+This book is publicly available for free download on [ZynqBook.com](http://www.zynqbook.com)   
 
 Additional materials may be provided on an as-needed basis on the course website.
 
@@ -87,7 +85,6 @@ Additional materials may be provided on an as-needed basis on the course website
 
 * Performance Profiling
 * Performance Debugging and Optimizations 
-* Multicore Performance Optimizations
 * Hardware Accelerator Designs
   * On-Chip Buses
   * Memory-Mapped Input/Output (MMIO)
@@ -170,5 +167,5 @@ clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
 ----
-Version: 2021.0
+Version: 2022.0
 

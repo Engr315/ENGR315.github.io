@@ -19,7 +19,7 @@ applications. A more detailed description can be found in the
 
 ### [Other Downloads](https://github.com/Engr315/downloads) 
 
-### [Autograder](https://autograder.sice.indiana.edu)
+### [Autograder](https://autograder.luddy.indiana.edu)
 
 ### [Canvas](https://iu.instructure.com/courses/2034331) _(Registered students only)_
 

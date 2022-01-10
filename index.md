@@ -25,6 +25,8 @@ applications. A more detailed description can be found in the
 
 <!-- ### [Slack](https://engr315.slack.com)  -->
 
+### [Zoom](https://iu.zoom.us/j/82546848629)
+
 **[Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)**
 
 **[Pynq Network Setup](https://docs.google.com/document/d/1i-IbmVQ2isauEg50CN2s8E3xESR1mAaM4FTGclJopJ0)**

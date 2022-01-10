@@ -19,7 +19,7 @@ applications. A more detailed description can be found in the
 
 ### [Other Downloads](https://github.com/Engr315/downloads) 
 
-### [Autograder](https://autograder.luddy.indiana.edu)
+### [Autograder](https://autograder.sice.indiana.edu)
 
 ### [Canvas](https://iu.instructure.com/courses/2034331) _(Registered students only)_
 
@@ -90,7 +90,7 @@ This is the tentative schedule for this semester.
 | 3/01  | Tuesday   | 13    | Memory management II      |                       |
 | 3/03  | Thursday  | 14    | C / Linux Interfacing I   | P6 Linux DMA (C)      |
 | 3/08  | Tuesday   | 15    | C / Linux Interfacing II  |                       |    
-| 3/10  | Thursday  | 16    | C / Linux Interfacing III | P7 Dot (Py)           |
+| 3/10  | Thursday  | 16    | C / Linux Interfacing III | P7 Dot (V)            |
 | 3/15  | Tuesday   | --    | SPRING BREAK              |                       |
 | 3/17  | Thursday  | --    | SPRING BREAK              | P7 Dot (V)            |
 | 3/22  | Tuesday   | 17    | Review                    |                       |

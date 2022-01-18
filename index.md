@@ -25,6 +25,8 @@ applications. A more detailed description can be found in the
 
 <!-- ### [Slack](https://engr315.slack.com)  -->
 
+### [Zoom](https://iu.zoom.us/j/82546848629)
+
 **[Remote Setup](https://uisapp2.iu.edu/confluence-prd/pages/viewpage.action?pageId=280461906)**
 
 **[Pynq Network Setup](https://docs.google.com/document/d/1i-IbmVQ2isauEg50CN2s8E3xESR1mAaM4FTGclJopJ0)**
@@ -34,10 +36,10 @@ applications. A more detailed description can be found in the
 [P1 -
 Circles](https://docs.google.com/document/d/19RJuI36xUifk_I7YlBeY-k063Gj4gJEuyoTRnWqXUlA/edit)
 
-<!-- 
 [P2 -
-EMA](https://docs.google.com/document/d/1fSf7-kz0epFUMWitFE677ZyorHz32iaVw1Fr9xNovXY)
+EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
 
+<!--
 [P3 - Popcount (MMIO)
 ](https://docs.google.com/document/d/1e4g7aX_v0s9yUcmW9FqVyLte9nAd2dtLZZM_io3QJoE)
 
@@ -88,7 +90,7 @@ This is the tentative schedule for this semester.
 | 3/01  | Tuesday   | 13    | Memory management II      |                       |
 | 3/03  | Thursday  | 14    | C / Linux Interfacing I   | P6 Linux DMA (C)      |
 | 3/08  | Tuesday   | 15    | C / Linux Interfacing II  |                       |    
-| 3/10  | Thursday  | 16    | C / Linux Interfacing III | P7 Dot (Py)           |
+| 3/10  | Thursday  | 16    | C / Linux Interfacing III | P7 Dot (V)            |
 | 3/15  | Tuesday   | --    | SPRING BREAK              |                       |
 | 3/17  | Thursday  | --    | SPRING BREAK              | P7 Dot (V)            |
 | 3/22  | Tuesday   | 17    | Review                    |                       |

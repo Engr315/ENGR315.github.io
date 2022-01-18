@@ -39,7 +39,7 @@ Location:  2032 Luddy Hall
 Michael Mitsch\
 mfmitsch@iu.edu
 
-Office Hours: Mon/Wed 5:00pm-7:00pm\
+Office Hours: Mon 5:00pm-7:00pm, Fri 10:00am-12:00pm\
 Location: 4111 Luddy Hall
 
 ## Schedule

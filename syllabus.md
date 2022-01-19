@@ -31,15 +31,15 @@ Andrew Lukefahr
 lukefahr@iu.edu  
 2032 Luddy Hall  
 
-Office Hours:  Tues/Thurs 2:00pm-3:00pm (before class)\
-Location:  2032 Luddy Hall
+Office Hours:  Tues/Thurs 4:00pm-5:00pm (after class)\
+Location:  4111 Luddy Hall
 
 ## TA
 
 Michael Mitsch\
 mfmitsch@iu.edu
 
-Office Hours: Mon/Wed 5:00pm-7:00pm\
+Office Hours: Mon 5:00pm-7:00pm, Friday 10:00am-12:00pm\
 Location: 4111 Luddy Hall
 
 ## Schedule
@@ -167,5 +167,5 @@ clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
 ----
-Version: 2022.0
+Version: 2022.1
 

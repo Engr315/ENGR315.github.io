@@ -75,8 +75,8 @@ This is the tentative schedule for this semester.
 | --    |  -----    | --    |  -----                    |     -----             | 
 | 1/11  | Tuesday   | 00    | Introduction              |                       |
 | 1/13  | Thursday  | 01    | Performance Profiling     | P1 Circles (Py)       |
-| 1/18  | Tuesday   | 02    | Algorithm Performance I   |                       |
-| 1/20  | Thursday  | 03    | Algorithm Performance II  | P2 Exp Mov Avg (V)    | 
+| 1/18  | Tuesday   | 02    | C Interfacing             |                       |
+| 1/20  | Thursday  | 03    | Intro to Buses            | P2 Exp Mov Avg (V)    | 
 | 1/25  | Tuesday   | 04    | Partitioning              |                       |
 | 1/27  | Thursday  | 05    | Interfaces                | P2 Exp Mov Ava (V)    |
 | 2/01  | Tuesday   | 06    | On-Chip Buses I           |                       |

@@ -41,7 +41,7 @@ EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxB
 
 <!--
 [P3 - Popcount (MMIO)
-](https://docs.google.com/document/d/1e4g7aX_v0s9yUcmW9FqVyLte9nAd2dtLZZM_io3QJoE)
+](https://docs.google.com/document/d/1wziNgmpn2tVlY3KJ_S0K1H8Fy0uqwUYXsahNDnxYBY0)
 
 [P4 - Popcount II (DMA)
 ](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)

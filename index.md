@@ -39,10 +39,10 @@ Circles](https://docs.google.com/document/d/19RJuI36xUifk_I7YlBeY-k063Gj4gJEuyoT
 [P2 -
 EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
 
-<!--
 [P3 - Popcount (MMIO)
 ](https://docs.google.com/document/d/1wziNgmpn2tVlY3KJ_S0K1H8Fy0uqwUYXsahNDnxYBY0)
 
+<!--
 [P4 - Popcount II (DMA)
 ](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)
 

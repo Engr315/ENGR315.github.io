@@ -84,9 +84,9 @@ This is the tentative schedule for this semester.
 | 2/08  | Tuesday   | 07    | On-Chip Buses II          |                       |
 | 2/10  | Thursday  | 08    | Direct Memory Access I    | P3  MMIO Popcount (V) |
 | 2/15  | Tuesday   | 09    | Direct Memory Access II   |                       |    
-| 2/17  | Thursday  | 10    | Direct Memory Access III  | P4  DMA Popcount (V)  |
+| 2/17  | Thursday  | 10    | Direct Memory Access III  | P4 Linux MMIO (C)     | 
 | 2/22  | Tuesday   | 11    | Direct Memory Access IV   |                       |
-| 2/24  | Thursday  | 12    | Memory Management I       | P5 Linux MMIO (C)     |
+| 2/24  | Thursday  | 12    | Memory Management I       | P5 DMA Popcount (V)   |
 | 3/01  | Tuesday   | 13    | Memory management II      |                       |
 | 3/03  | Thursday  | 14    | C / Linux Interfacing I   | P6 Linux DMA (C)      |
 | 3/08  | Tuesday   | 15    | C / Linux Interfacing II  |                       |    

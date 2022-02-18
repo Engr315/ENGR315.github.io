@@ -85,20 +85,20 @@ This is the tentative schedule for this semester.
 | 2/01  | Tuesday   | 06    | On-Chip Buses I           |                       |
 | 2/03  | Thursday  | 06    | Memory-Mapped I/O         | P3  MMIO Popcount (V) |
 | 2/08  | Tuesday   | 07    | On-Chip Buses II          |                       |
-| 2/10  | Thursday  | 08    | Direct Memory Access I    | P3  MMIO Popcount (V) |
-| 2/15  | Tuesday   | 09    | Direct Memory Access II   |                       |    
-| 2/17  | Thursday  | 10    | Direct Memory Access III  | P4 Linux MMIO (C)     | 
-| 2/22  | Tuesday   | 11    | Direct Memory Access IV   |                       |
-| 2/24  | Thursday  | 12    | Memory Management I       | P5 DMA Popcount (V)   |
-| 3/01  | Tuesday   | 13    | Memory management II      |                       |
-| 3/03  | Thursday  | 14    | C / Linux Interfacing I   | P6 Linux DMA (C)      |
-| 3/08  | Tuesday   | 15    | C / Linux Interfacing II  |                       |    
-| 3/10  | Thursday  | 16    | C / Linux Interfacing III | P7 Dot (V)            |
+| 2/10  | Thursday  | 08    | Memory Management I       | P3  MMIO Popcount (V) |
+| 2/15  | Tuesday   | 09    | Memory management II      |                       |   
+| 2/17  | Thursday  | 10    | C / Linux Interfacing I   | P4 Linux MMIO (C)     |
+| 2/22  | Tuesday   | 11    | C / Linux Interfacing II  |                       |
+| 2/24  | Thursday  | 12    | C / Linux Interfacing III | P5 DMA Popcount (V)   |
+| 3/01  | Tuesday   | 13    | Direct Memory Access I    |                       |
+| 3/03  | Thursday  | 14    | Direct Memory Access II   | P6 Linux DMA (C)      |
+| 3/08  | Tuesday   | 15    | Direct Memory Access III  |                       |    
+| 3/10  | Thursday  | 16    | Direct Memory Access IV   | P7 Dot (V)            |
 | 3/15  | Tuesday   | --    | SPRING BREAK              |                       |
 | 3/17  | Thursday  | --    | SPRING BREAK              | P7 Dot (V)            |
-| 3/22  | Tuesday   | 17    | Review                    |                       |
-| 3/24  | Thursday  | 18    | Exam                      | P7 Dot (V)            |
-| 3/29  | Tuesday   | 19    | Linux Kernel I            |                       |
+| 3/22  | Tuesday   | 17    | NO CLASS                  |                       |
+| 3/24  | Thursday  | 18    | Review                    | P7 Dot (V)            |
+| 3/29  | Tuesday   | 19    | Exam                      |                       |
 | 3/31  | Thursday  | 20    | Linux Kernel II           | PX Accel Dot (V)      |
 | 4/05  | Tuesday   | 21    | Linux Kernel III          |                       |
 | 4/07  | Thursday  | 22    | Hardware Optimization I   | PX Accel Dot (V)      |

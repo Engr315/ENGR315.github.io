@@ -45,10 +45,9 @@ EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxB
 [P4 - Popcount in C
 (MMIO)](https://docs.google.com/document/d/1a8_Wcze2owN2ul_ciEN7DqSM9JZB1u1Sy--n0qr1EiQ)
 
-<!--
-[P4 - Popcount II (DMA)
-](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)
+[P6 - DMA Popcount](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)
 
+<!--
 [P5 - Dot Product
 ](https://docs.google.com/document/d/1T3A0i9VGbKmthQHFEh_VQp2VmV2zO4Fyx23BCP6mLYk)
 

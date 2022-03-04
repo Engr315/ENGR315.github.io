@@ -90,15 +90,15 @@ This is the tentative schedule for this semester.
 | 2/22  | Tuesday   | 11    | C / Linux Interfacing II  |                       |
 | 2/24  | Thursday  | 12    | C / Linux Interfacing III | P5 DMA Popcount (V)   |
 | 3/01  | Tuesday   | 13    | Direct Memory Access I    |                       |
-| 3/03  | Thursday  | 14    | Direct Memory Access II   | P6 Linux DMA (C)      |
+| 3/03  | Thursday  | 14    | Direct Memory Access II   | P5 DMA Popcount (V)   |
 | 3/08  | Tuesday   | 15    | Direct Memory Access III  |                       |    
-| 3/10  | Thursday  | 16    | Direct Memory Access IV   | P7 Dot (V)            |
+| 3/10  | Thursday  | 16    | Direct Memory Access IV   | P6 Linux DMA (C)      |
 | 3/15  | Tuesday   | --    | SPRING BREAK              |                       |
-| 3/17  | Thursday  | --    | SPRING BREAK              | P7 Dot (V)            |
+| 3/17  | Thursday  | --    | SPRING BREAK              | --                    |
 | 3/22  | Tuesday   | 17    | NO CLASS                  |                       |
 | 3/24  | Thursday  | 18    | Review                    | P7 Dot (V)            |
 | 3/29  | Tuesday   | 19    | Exam                      |                       |
-| 3/31  | Thursday  | 20    | Linux Kernel II           | PX Accel Dot (V)      |
+| 3/31  | Thursday  | 20    | Linux Kernel II           | P7 Dot (V)            |
 | 4/05  | Tuesday   | 21    | Linux Kernel III          |                       |
 | 4/07  | Thursday  | 22    | Hardware Optimization I   | PX Accel Dot (V)      |
 | 4/12  | Tuesday   | 23    | Hardware Optimization II  |                       |

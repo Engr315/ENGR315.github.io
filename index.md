@@ -47,6 +47,8 @@ EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxB
 
 [P5 - DMA Popcount](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)
 
+[P6 - DMA Popcount in C](https://docs.google.com/document/d/1No0ThJH7IQrEZT4aiclMCTAKm2VETctFjFmX-5vdYks)
+
 <!--
 [P5 - Dot Product
 ](https://docs.google.com/document/d/1T3A0i9VGbKmthQHFEh_VQp2VmV2zO4Fyx23BCP6mLYk)

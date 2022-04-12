@@ -52,10 +52,9 @@ EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxB
 [P7 - Dot Product
 ](https://docs.google.com/document/d/1T3A0i9VGbKmthQHFEh_VQp2VmV2zO4Fyx23BCP6mLYk)
 
-<!--
-[P6 - Accel Dot
+[P7b - Accel Dot
 ](https://docs.google.com/document/d/1HjL1aAhHEbYOBpOYRTyEmPGJ3vP-4qZ5IslJoXBLhhk)
--->
+
 
 <!-- 
 SP'2021

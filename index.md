@@ -1,10 +1,10 @@
 # Welcome to ENGR 315 
 
-Spring 2022
+Fall 2022
 
 ## Description 
 
-Welcome to E315!  
+Welcome to ENGR E315 (and CSCI B590)
 
 This course provides an introduction to hardware/software interaction and using
 hardware to accelerate software-based
@@ -36,6 +36,7 @@ applications. A more detailed description can be found in the
 [P1 -
 Circles](https://docs.google.com/document/d/19RJuI36xUifk_I7YlBeY-k063Gj4gJEuyoTRnWqXUlA/edit)
 
+<!-- 
 [P2 -
 EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
 
@@ -54,7 +55,7 @@ EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxB
 
 [P8 - Accel Dot
 ](https://docs.google.com/document/d/1HjL1aAhHEbYOBpOYRTyEmPGJ3vP-4qZ5IslJoXBLhhk)
-
+-->
 
 <!-- 
 SP'2021

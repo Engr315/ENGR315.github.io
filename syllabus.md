@@ -1,6 +1,6 @@
 # ENGR 315  Syllabus
 
-Spring, 2022
+Fall, 2022
 
 ## Description
 
@@ -31,29 +31,32 @@ Andrew Lukefahr
 lukefahr@iu.edu  
 2032 Luddy Hall  
 
-Office Hours:  Tues/Thurs 4:00pm-5:00pm (after class)\
-Location:  4111 Luddy Hall
+Office Hours:  Monday/Wednesday 11:00am-12:00pm (after class)\
+Location:  2032 Luddy Hall and/or 4111 Luddy Hall
 
 ## TA
 
-Michael Mitsch\
-mfmitsch@iu.edu
+TBD
 
-Office Hours: Mon 5:00pm-7:00pm, Friday 10:00am-12:00pm\
+Office Hours: TBD
 Location: 4111 Luddy Hall
 
 ## Schedule
 
-Lecture Time:  3:15-4:15pm Tuesday/Thursday\
+Lecture Time:  9:45a-11:00a Monday/Wednesday\
 Location: IF 4111 (Luddy Hall)
 
-Lab Time:  9:10-10:00am Friday\
+<!-- Lab Time:  9:10-10:00am Friday\
 Location: IF 4111 (Luddy Hall)   
+-->
 
 ## Prerequisites
 
 Engineering:  E201 and E210  
 Computer Science:  C335 and P441 
+
+This class assumes students are familiar with C, Python, and Verilog. 
+Students lacking sufficient background will struggle in this course. 
 
 ## Textbooks
 
@@ -84,7 +87,7 @@ Additional materials may be provided on an as-needed basis on the course website
 ## Topics Covered
 
 * Performance Profiling
-* Performance Debugging and Optimizations 
+* Performance Optimizations 
 * Hardware Accelerator Designs
   * On-Chip Buses
   * Memory-Mapped Input/Output (MMIO)
@@ -124,7 +127,7 @@ grade.*
 
 | Exam     | Projects  |  Design Challenge   | Design Report|
 | -------- |  ---      | -------------       | --           |
-|    25%   |  40%      |    20%              | 15%          |
+|    25%   |  45%      |    15%              | 15%          |
 
 
 ## The Autograder
@@ -135,7 +138,7 @@ autograder before the deadline. We use a web-based autograder for project
 submissions. For some projects, the autograder will also evaluate the
 thoroughness of test cases you submit.
 
-Autograder Link: [https://autograder.sice.indiana.edu](https://autograder.sice.indiana.edu)
+Autograder Link: [https://ag.luddy.indiana.edu](https://ag.luddy.indiana.edu)
 
 ## Academic Integrity
 

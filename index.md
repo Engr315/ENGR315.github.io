@@ -19,7 +19,7 @@ applications. A more detailed description can be found in the
 
 ### [Other Downloads](https://github.com/Engr315/downloads) 
 
-### [Autograder](https://autograder.sice.indiana.edu)
+### [Autograder](https://ag.luddy.indiana.edu)
 
 ### [Canvas](https://iu.instructure.com/courses/2034331) _(Registered students only)_
 
@@ -75,38 +75,38 @@ SP'2020
 
 This is the tentative schedule for this semester.
                                                         
-| Date  |   Day     | Number| Lecture Topic             |  Project Topic        | 
-| --    |  -----    | --    |  -----                    |     -----             | 
-| 1/11  | Tuesday   | 00    | Introduction              |                       |
-| 1/13  | Thursday  | 01    | Performance Profiling     | P1 Circles (Py)       |
-| 1/18  | Tuesday   | 02    | C Interfacing             |                       |
-| 1/20  | Thursday  | 03    | Intro to Buses            | P2 Exp Mov Avg (V)    | 
-| 1/25  | Tuesday   | 04    | Partitioning              |                       |
-| 1/27  | Thursday  | 05    | Interfaces                | P2 Exp Mov Ava (V)    |
-| 2/01  | Tuesday   | 06    | On-Chip Buses I           |                       |
-| 2/03  | Thursday  | 06    | Memory-Mapped I/O         | P3  MMIO Popcount (V) |
-| 2/08  | Tuesday   | 07    | On-Chip Buses II          |                       |
-| 2/10  | Thursday  | 08    | Memory Management I       | P3  MMIO Popcount (V) |
-| 2/15  | Tuesday   | 09    | Memory management II      |                       |   
-| 2/17  | Thursday  | 10    | C / Linux Interfacing I   | P4 Linux MMIO (C)     |
-| 2/22  | Tuesday   | 11    | C / Linux Interfacing II  |                       |
-| 2/24  | Thursday  | 12    | C / Linux Interfacing III | P5 DMA Popcount (V)   |
-| 3/01  | Tuesday   | 13    | Direct Memory Access I    |                       |
-| 3/03  | Thursday  | 14    | Direct Memory Access II   | P5 DMA Popcount (V)   |
-| 3/08  | Tuesday   | 15    | Direct Memory Access III  |                       |    
-| 3/10  | Thursday  | 16    | Direct Memory Access IV   | P6 Linux DMA (C)      |
-| 3/15  | Tuesday   | --    | SPRING BREAK              |                       |
-| 3/17  | Thursday  | --    | SPRING BREAK              | --                    |
-| 3/22  | Tuesday   | 17    | NO CLASS                  |                       |
-| 3/24  | Thursday  | 18    | Review                    | P7 Dot (V)            |
-| 3/29  | Tuesday   | 19    | Exam                      |                       |
-| 3/31  | Thursday  | 20    | Linux Kernel II           | P7 Dot (V)            |
-| 4/05  | Tuesday   | 21    | Linux Kernel III          |                       |
-| 4/07  | Thursday  | 22    | Hardware Optimization I   | PX Accel Dot (V)      |
-| 4/12  | Tuesday   | 23    | Hardware Optimization II  |                       |
-| 4/14  | Thursday  | 24    | PX Progress Reports       | PX Accel Dot (V)      |
-| 4/19  | Tuesday   | 25    | PX Progress Reports       |                       |
-| 4/21  | Thursday  | 26    | Overflow                  | PX Accel Dot (V)      | 
-| 4/26  | Tuesday   | 27    | Overflow                  |                       | 
-| 4/28  | Thursday  | 28    | Overflow                  | PX Accel Dot (V)      |
-| 5/05  | Thursday  | -     | Final Report Due @ 7.20pm |                       | 
+|  Date  |   Day     | Number| Lecture Topic             |  Project Topic        | 
+|  --    |  -----    | --    |  -----                    |     -----             | 
+| 08/22  | Monday    | 00    | Introduction              |                       |
+| 08/24  | Wednesday | 01    | Performance Profiling     | P1 Circles (Py)       |
+| 08/29  | Monday    | 02    | C Interfacing             |                       |
+| 08/31  | Wednesday | 03    | Buses I                   | P2 Exp Mov Avg (V)    | 
+| 09/05  | Monday    | 04    | Buses II                  |                       |
+| 09/07  | Wednesday | 05    | MMIO I                    | P2 Exp Mov Ava (V)    |
+| 09/12  | Monday    | 06    | MMIO II                   |                       |
+| 09/14  | Wednesday | 06    | MMIO III                  | P3  MMIO Popcount (V) |
+| 09/19  | Monday    | 07    | Real Buses                |                       |
+| 09/21  | Wednesday | 08    | High Performance Buses    | P3  MMIO Popcount (V) |
+| 09/26  | Monday    | 09    | Memory / Tristate         |                       |   
+| 09/28  | Wednesday | 10    | C / Linux Interfacing I   | P4 Linux MMIO (C)     |
+| 10/03  | Monday    | 11    | C / Linux Interfacing II  |                       |
+| 10/05  | Wednesday |       | Overflow                  | P5 DMA Popcount (V)   |
+| 10/10  | Monday    | 12    | Direct Memory Access I    |                       |
+| 10/12  | Wednesday | 13    | Direct Memory Access II   | P5 DMA Popcount (V)   |
+| 10/17  | Monday    | 14    | Parallel Hardware I       |                       |    
+| 10/19  | Wednesday | 15    | Parallel Hardware II      | P6 Linux DMA (C)      |
+| 10/24  | Monday    | --    | Parallel Hardware III     |                       |
+| 10/26  | Wednesday | --    | Parallel Hardware IV      | --                    |
+| 10/31  | Monday    | 17    |                           |                       |
+| 11/02  | Wednesday | 18    | Review                    | P7 Dot (V)            |
+| 11/07  | Monday    | 19    | Exam                      |                       |
+| 11/09  | Wednesday | 20    | Linux Kernel II           | P7 Dot (V)            |
+| 11/14  | Monday    | 21    | Linux Kernel III          |                       |
+| 11/16  | Wednesday |       | Overflow                  | PX Accel Dot (V)      |
+| 11/21  | Monday    |       | BREAK                     |                       |
+| 11/23  | Wednesday |       | BREAK                     | PX Accel Dot (V)      |
+| 11/28  | Monday    |       | PX Progress Reports       |                       |
+| 11/30  | Wednesday |       | Overflow                  | PX Accel Dot (V)      | 
+| 12/05  | Monday    |       | Overflow                  |                       | 
+| 12/07  | Wednesday |       | Overflow                  | PX Accel Dot (V)      |
+| 12/14  | Wednesday | -     | Final Report Due @ 10.00am|                       | 

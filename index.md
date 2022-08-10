@@ -82,11 +82,11 @@ This is the tentative schedule for this semester.
 | 08/29  | Monday    | 02    | C Interfacing             |                       |
 | 08/31  | Wednesday | 03    | Buses I                   | P2 Exp Mov Avg (V)    | 
 | 09/05  | Monday    | 04    | Buses II                  |                       |
-| 09/07  | Wednesday | 05    | MMIO I                    | P2 Exp Mov Ava (V)    |
+| 09/07  | Wednesday | 05    | MMIO I                    | P3 MMIO Popcount (V)  |
 | 09/12  | Monday    | 06    | MMIO II                   |                       |
-| 09/14  | Wednesday | 06    | MMIO III                  | P3  MMIO Popcount (V) |
+| 09/14  | Wednesday | 06    | MMIO III                  | P3 MMIO Popcount (V)  |
 | 09/19  | Monday    | 07    | Real Buses                |                       |
-| 09/21  | Wednesday | 08    | High Performance Buses    | P3  MMIO Popcount (V) |
+| 09/21  | Wednesday | 08    | High Performance Buses    | P4 Linux MMIO (C)     |
 | 09/26  | Monday    | 09    | Memory / Tristate         |                       |   
 | 09/28  | Wednesday | 10    | C / Linux Interfacing I   | P4 Linux MMIO (C)     |
 | 10/03  | Monday    | 11    | C / Linux Interfacing II  |                       |

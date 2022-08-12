@@ -32,14 +32,20 @@ lukefahr@iu.edu
 2032 Luddy Hall  
 
 Office Hours:  Monday/Wednesday 11:00am-12:00pm (after class)\
-Location:  2032 Luddy Hall and/or 4111 Luddy Hall
+Location:  2032 Luddy Hall and/or 3111 Luddy Hall
 
 ## TA
 
-TBD
+Nicole Miller - ncm1@iu.edu \
+Caleb Cook - cookce@iu.edu 
 
-Office Hours: TBD
-Location: 4111 Luddy Hall
+**Office Hours**: 
+ - Tuesday: 10am-1pm 
+ - Wednesday: 5pm-8pm
+ - Thursday: 5pm-8pm
+ - Friday:  2pm-5pm
+ 
+**Location:** 3111 Luddy Hall (one floor below 4111)
 
 ## Schedule
 

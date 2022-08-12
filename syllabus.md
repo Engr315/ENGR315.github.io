@@ -153,6 +153,9 @@ somebody else or found on the web. In programming projects, working together may
 extend to figuring out overall strategies for solution but **you may not work
 together or share the actual code** that you submit.
 
+For group projects, code sharing within the group is encouraged. Sharing code
+outside the group is not allowed.  
+
 ## Disability Services for Students
 
 If you think you need an accommodation for a disability, please let your

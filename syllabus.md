@@ -144,7 +144,7 @@ autograder before the deadline. We use a web-based autograder for project
 submissions. For some projects, the autograder will also evaluate the
 thoroughness of test cases you submit.
 
-Autograder Link: [https://ag.luddy.indiana.edu](https://ag.luddy.indiana.edu)
+Autograder Link: [https://autograder.luddy.indiana.edu](https://autograder.luddy.indiana.edu)
 
 ## Academic Integrity
 
@@ -179,5 +179,5 @@ clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
 ----
-Version: 2022.1
+Version: 2022.2
 

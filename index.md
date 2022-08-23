@@ -35,23 +35,25 @@ applications. A more detailed description can be found in the
 Circles](https://docs.google.com/document/d/19RJuI36xUifk_I7YlBeY-k063Gj4gJEuyoTRnWqXUlA/edit)
 
 <!-- 
-[P2 -
-EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
 
-[P3 - Popcount (MMIO)
+[P2 - EMA in C](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
+
+[P3 - EMA in HW](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
+
+[P4 - MMIO Popcount
 ](https://docs.google.com/document/d/1wziNgmpn2tVlY3KJ_S0K1H8Fy0uqwUYXsahNDnxYBY0)
 
-[P4 - Popcount in C
+[P5 - MMIO Popcount in C
 (MMIO)](https://docs.google.com/document/d/1a8_Wcze2owN2ul_ciEN7DqSM9JZB1u1Sy--n0qr1EiQ)
 
-[P5 - DMA Popcount](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)
+[P6 - DMA Popcount](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)
 
-[P6 - DMA Popcount in C](https://docs.google.com/document/d/1No0ThJH7IQrEZT4aiclMCTAKm2VETctFjFmX-5vdYks)
+[P7 - DMA Popcount in C](https://docs.google.com/document/d/1No0ThJH7IQrEZT4aiclMCTAKm2VETctFjFmX-5vdYks)
 
-[P7 - Dot Product
+[P8 - Dot Product
 ](https://docs.google.com/document/d/1T3A0i9VGbKmthQHFEh_VQp2VmV2zO4Fyx23BCP6mLYk)
 
-[P8 - Accel Dot
+[PX - Accel Dot
 ](https://docs.google.com/document/d/1HjL1aAhHEbYOBpOYRTyEmPGJ3vP-4qZ5IslJoXBLhhk)
 -->
 

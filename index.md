@@ -31,10 +31,12 @@ applications. A more detailed description can be found in the
 
 ## Projects
 
-[P1 -
-Circles](https://docs.google.com/document/d/19RJuI36xUifk_I7YlBeY-k063Gj4gJEuyoTRnWqXUlA/edit)
+[P1 - Circles ](https://docs.google.com/document/d/1-CCQA5W3WXCne4WsE9izRG_VA8rVle_d_RgO6UVfJ-Y) (temporary)
+
 
 <!-- 
+[P1 -
+Circles](https://docs.google.com/document/d/19RJuI36xUifk_I7YlBeY-k063Gj4gJEuyoTRnWqXUlA/edit)
 
 [P2 - EMA in C](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
 

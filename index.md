@@ -21,7 +21,7 @@ applications. A more detailed description can be found in the
 
 ### [Autograder](https://autograder.luddy.indiana.edu)
 
-<!-- ### [Slack](https://engr315.slack.com)  -->
+### [Slack](https:///e315-fall2022.slack.com) 
 
 ### [Zoom](https://iu.zoom.us/j/82546848629)
 

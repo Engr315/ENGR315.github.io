@@ -31,36 +31,38 @@ applications. A more detailed description can be found in the
 
 ## Projects
 
-[P1 -
-Circles](https://docs.google.com/document/d/19RJuI36xUifk_I7YlBeY-k063Gj4gJEuyoTRnWqXUlA/edit)
+[P1 - Circles ](https://docs.google.com/document/d/1-CCQA5W3WXCne4WsE9izRG_VA8rVle_d_RgO6UVfJ-Y)
+
+[P2 - EMA in C](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
+
 
 <!-- 
-[P2 -
-EMA](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
 
-[P3 - Popcount (MMIO)
+[P3 - EMA in HW](https://docs.google.com/document/d/1U6MN45r_esy1MUt8zoRSsgUC54HM9TFWiHajOWfyus4)
+
+[P4 - MMIO Popcount
 ](https://docs.google.com/document/d/1wziNgmpn2tVlY3KJ_S0K1H8Fy0uqwUYXsahNDnxYBY0)
 
-[P4 - Popcount in C
-(MMIO)](https://docs.google.com/document/d/1a8_Wcze2owN2ul_ciEN7DqSM9JZB1u1Sy--n0qr1EiQ)
+[P5 - MMIO Popcount in C
+(MMIO)](https://docs.google.com/document/d/1jg8RsI7jDrboQLwvzRQ8uWffIeV_ha4-RNPDwvikyxs)
 
-[P5 - DMA Popcount](https://docs.google.com/document/d/1iBitsh12hDeSGUTO_jiZeCMJVmmj8hG7AxZ9hmOcjGU)
+[P6 - DMA Popcount](
+https://docs.google.com/document/d/1u5RHWupwQOmu_8SVDFzPE2HH5vzACUf5E6XRroKZ6-M)
 
-[P6 - DMA Popcount in C](https://docs.google.com/document/d/1No0ThJH7IQrEZT4aiclMCTAKm2VETctFjFmX-5vdYks)
+[P7 - DMA Popcount in C](
+https://docs.google.com/document/d/1No0ThJH7IQrEZT4aiclMCTAKm2VETctFjFmX-5vdYks)
 
-[P7 - Dot Product
-](https://docs.google.com/document/d/1T3A0i9VGbKmthQHFEh_VQp2VmV2zO4Fyx23BCP6mLYk)
+[P8 - Dot Product
+](https://docs.google.com/document/d/1-7P4MVqkqgErGTgZFTI5RU-Xp4UcxNxZrqHNL3SwFu0)
 
-[P8 - Accel Dot
-](https://docs.google.com/document/d/1HjL1aAhHEbYOBpOYRTyEmPGJ3vP-4qZ5IslJoXBLhhk)
+[PX - Accel Dot
+](https://docs.google.com/document/d/1o2O131Urwfu3FUcAc2eNOvgz_DdiyA4J3IQlRAeDowk)
 -->
 
 <!-- 
 SP'2021
 [P2 - Correlation](https://docs.google.com/document/d/1OnPW7GvSvcdtVuDCgDzKF1uvwplZkn-wKnNfx14_LTQ)
--->
 
-<!--
 SP'2020
 [P1 - Blinking LEDs](https://docs.google.com/document/d/1WEp6INc_Z_96oKV1LKEZmKhYWgL1gWm5W6eo9B1y3hA)
 [P2 - Mega Multiply](https://docs.google.com/document/d/1f7u7QJJ32AM1liW9sximbdjBCLsJNu3DhcO3tE-Fcyc)

@@ -35,13 +35,11 @@ applications. A more detailed description can be found in the
 
 [P2 - EMA in C](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
 
-
 [P3 - EMA in HW](https://docs.google.com/document/d/1U6MN45r_esy1MUt8zoRSsgUC54HM9TFWiHajOWfyus4)
 
-<!-- 
-[P4 - MMIO Popcount
-](https://docs.google.com/document/d/1wziNgmpn2tVlY3KJ_S0K1H8Fy0uqwUYXsahNDnxYBY0)
+[P4 - MMIO Popcount](https://docs.google.com/document/d/1wziNgmpn2tVlY3KJ_S0K1H8Fy0uqwUYXsahNDnxYBY0)
 
+<!-- 
 [P5 - MMIO Popcount in C
 (MMIO)](https://docs.google.com/document/d/1jg8RsI7jDrboQLwvzRQ8uWffIeV_ha4-RNPDwvikyxs)
 

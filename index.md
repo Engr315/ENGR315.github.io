@@ -39,8 +39,7 @@ applications. A more detailed description can be found in the
 
 [P4 - MMIO Popcount](https://docs.google.com/document/d/1wziNgmpn2tVlY3KJ_S0K1H8Fy0uqwUYXsahNDnxYBY0)
 
-[P5 - MMIO Popcount in C
-(MMIO)](https://docs.google.com/document/d/1jg8RsI7jDrboQLwvzRQ8uWffIeV_ha4-RNPDwvikyxs)
+[P5 - MMIO Popcount in C](https://docs.google.com/document/d/1jg8RsI7jDrboQLwvzRQ8uWffIeV_ha4-RNPDwvikyxs)
 
 [P6 - DMA Popcount](
 https://docs.google.com/document/d/1u5RHWupwQOmu_8SVDFzPE2HH5vzACUf5E6XRroKZ6-M)

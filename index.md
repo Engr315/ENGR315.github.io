@@ -94,8 +94,8 @@ This is the tentative schedule for this semester.
 | 10/17  | Monday    | 14    | Direct Memory Access II   |                       |    
 | 10/19  | Wednesday | 15    | Parallel Hardware I       | P6 DMA Popcount (V)   |
 | 10/24  | Monday    | --    | Parallel Hardware II      |                       |
-| 10/26  | Wednesday | --    | Parallel Hardware III     | P7 Linux DMA (C)      |
-| 10/31  | Monday    | 17    | Parallel Hardware IV      |                       |
+| 10/26  | Wednesday | --    | NO CLASS                  | P7 Linux DMA (C)      |
+| 10/31  | Monday    | 17    | Parallel Hardware III     |                       |
 | 11/02  | Wednesday | 18    | Review                    | --                    |
 | 11/07  | Monday    | 19    | Exam                      |                       |
 | 11/09  | Wednesday | 20    | Linux Kernel II           | P8 Dot (V)            |

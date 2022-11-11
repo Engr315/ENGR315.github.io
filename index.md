@@ -92,19 +92,19 @@ This is the tentative schedule for this semester.
 | 10/10  | Monday    | 12    | Overflow                  |                       |
 | 10/12  | Wednesday | 13    | Direct Memory Access I    | P6 DMA Popcount (V)   |
 | 10/17  | Monday    | 14    | Direct Memory Access II   |                       |    
-| 10/19  | Wednesday | 15    | Parallel Hardware I       | P6 DMA Popcount (V)   |
-| 10/24  | Monday    | --    | Parallel Hardware II      |                       |
+| 10/19  | Wednesday | 15    | Pipelining I              | P6 DMA Popcount (V)   |
+| 10/24  | Monday    | --    | Pipelining II             |                       |
 | 10/26  | Wednesday | --    | NO CLASS                  | P7 Linux DMA (C)      |
-| 10/31  | Monday    | 17    | Parallel Hardware III     |                       |
+| 10/31  | Monday    | 17    | Parallelism I             |                       |
 | 11/02  | Wednesday | 18    | Review                    | --                    |
 | 11/07  | Monday    | 19    | Exam                      |                       |
-| 11/09  | Wednesday | 20    | Linux Kernel II           | P8 Dot (V)            |
-| 11/14  | Monday    | 21    | Linux Kernel III          |                       |
+| 11/09  | Wednesday | 20    | Parallelism II            | P8 Dot (V)            |
+| 11/14  | Monday    | 21    | Parallelism III           |                       |
 | 11/16  | Wednesday |       | Overflow                  | P8 Dot (V)            |
 | 11/21  | Monday    |       | BREAK                     |                       |
 | 11/23  | Wednesday |       | BREAK                     | PX Accel Dot (V)      |
-| 11/28  | Monday    |       | PX Progress Reports       |                       |
-| 11/30  | Wednesday |       | Overflow                  | PX Accel Dot (V)      | 
-| 12/05  | Monday    |       | Overflow                  |                       | 
+| 11/28  | Monday    |       | Linux Kernel I            |                       |
+| 11/30  | Wednesday |       | Linux Kernel II           | PX Accel Dot (V)      | 
+| 12/05  | Monday    |       | Report Reviews            |                       | 
 | 12/07  | Wednesday |       | Overflow                  | PX Accel Dot (V)      |
 | 12/14  | Wednesday | -     | Final Report Due @ 10.00am|                       | 

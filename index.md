@@ -51,11 +51,8 @@ https://docs.google.com/document/d/1No0ThJH7IQrEZT4aiclMCTAKm2VETctFjFmX-5vdYks)
 [P8 - Dot Product
 ](https://docs.google.com/document/d/1-7P4MVqkqgErGTgZFTI5RU-Xp4UcxNxZrqHNL3SwFu0)
 
-<!-- 
-
 [PX - Accel Dot
 ](https://docs.google.com/document/d/1o2O131Urwfu3FUcAc2eNOvgz_DdiyA4J3IQlRAeDowk)
--->
 
 <!-- 
 SP'2021

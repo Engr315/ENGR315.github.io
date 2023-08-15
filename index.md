@@ -1,6 +1,6 @@
 # Welcome to ENGR 315 
 
-Fall 2022
+Fall 2023
 
 ## Description 
 
@@ -21,7 +21,7 @@ applications. A more detailed description can be found in the
 
 ### [Autograder](https://autograder.luddy.indiana.edu)
 
-### [Slack](https:///e315-fall2022.slack.com) 
+<!-- ### [Slack](https:///e315-fall2022.slack.com)  -->
 
 ### [Zoom](https://iu.zoom.us/j/82546848629)
 
@@ -72,36 +72,36 @@ This is the tentative schedule for this semester.
                                                         
 |  Date  |   Day     | Number| Lecture Topic             |  Project Topic        | 
 |  --    |  -----    | --    |  -----                    |     -----             | 
-| 08/22  | Monday    | 00    | Introduction              |                       |
-| 08/24  | Wednesday | 01    | Performance Profiling     | P1 Circles (Py)       |
-| 08/29  | Monday    | 02    | Performance Profiling II  |                       |
-| 08/31  | Wednesday | 03    | C Interfacing             | P2 Exp Mov Avg (C)    | 
-| 09/05  | Monday    | 04    | NO CLASS                  |                       |
-| 09/07  | Wednesday | 05    | Buses I                   | P3 Exp Mov Avg (V)    |
-| 09/12  | Monday    | 06    | Buses II                  |                       |
-| 09/14  | Wednesday | 06    | MMIO I                    | P3 Exp Mov Avg (V)    |
-| 09/19  | Monday    | 07    | MMIO II                   |                       |
-| 09/21  | Wednesday | 08    | Real Buses                | P4 MMIO Popcount (V)  |
-| 09/26  | Monday    | 09    | High Performance Buses    |                       |   
-| 09/28  | Wednesday | 10    | Memory / Tristate         | P5 Linux MMIO (C)     |
-| 10/03  | Monday    | 11    | C / Linux Interfacing I   |                       |
-| 10/05  | Wednesday |       | C / Linux Interfacing II  | P5 Linux MMIO (C)     |
-| 10/10  | Monday    | 12    | Overflow                  |                       |
-| 10/12  | Wednesday | 13    | Direct Memory Access I    | P6 DMA Popcount (V)   |
-| 10/17  | Monday    | 14    | Direct Memory Access II   |                       |    
-| 10/19  | Wednesday | 15    | Pipelining I              | P6 DMA Popcount (V)   |
-| 10/24  | Monday    | --    | Pipelining II             |                       |
-| 10/26  | Wednesday | --    | NO CLASS                  | P7 Linux DMA (C)      |
-| 10/31  | Monday    | 17    | Parallelism I             |                       |
-| 11/02  | Wednesday | 18    | Review                    | --                    |
-| 11/07  | Monday    | 19    | Exam                      |                       |
-| 11/09  | Wednesday | 20    | Parallelism II            | P8 Dot (V)            |
-| 11/14  | Monday    | 21    | Parallelism III           |                       |
-| 11/16  | Wednesday |       | Overflow                  | P8 Dot (V)            |
-| 11/21  | Monday    |       | BREAK                     |                       |
-| 11/23  | Wednesday |       | BREAK                     | PX Accel Dot (V)      |
-| 11/28  | Monday    |       | Linux Kernel I            |                       |
-| 11/30  | Wednesday |       | Linux Kernel II           | PX Accel Dot (V)      | 
-| 12/05  | Monday    |       | Report Reviews            |                       | 
-| 12/07  | Wednesday |       | Overflow                  | PX Accel Dot (V)      |
+| 08/21  | Monday    | 00    | Introduction              |                       |
+| 08/23  | Wednesday | 01    | Performance Profiling     | P1 Circles (Py)       |
+| 08/28  | Monday    | 02    | Performance Profiling II  |                       |
+| 08/30  | Wednesday | 03    | C Interfacing             | P2 Exp Mov Avg (C)    | 
+| 09/04  | Monday    | 04    | NO CLASS                  |                       |
+| 09/06  | Wednesday | 05    | Buses I                   | P3 Exp Mov Avg (V)    |
+| 09/11  | Monday    | 06    | Buses II                  |                       |
+| 09/13  | Wednesday | 06    | MMIO I                    | P3 Exp Mov Avg (V)    |
+| 09/18  | Monday    | 07    | MMIO II                   |                       |
+| 09/20  | Wednesday | 08    | Real Buses                | P4 MMIO Popcount (V)  |
+| 09/25  | Monday    | 09    | High Performance Buses    |                       |   
+| 09/27  | Wednesday | 10    | Memory / Tristate         | P5 Linux MMIO (C)     |
+| 10/02  | Monday    | 11    | C / Linux Interfacing I   |                       |
+| 10/04  | Wednesday |       | C / Linux Interfacing II  | P5 Linux MMIO (C)     |
+| 10/09  | Monday    | 12    | Overflow                  |                       |
+| 10/11  | Wednesday | 13    | Direct Memory Access I    | P6 DMA Popcount (V)   |
+| 10/16  | Monday    | 14    | Direct Memory Access II   |                       |    
+| 10/18  | Wednesday | 15    | Pipelining I              | P6 DMA Popcount (V)   |
+| 10/23  | Monday    | --    | Pipelining II             |                       |
+| 10/25  | Wednesday | --    | NO CLASS                  | P7 Linux DMA (C)      |
+| 10/30  | Monday    | 17    | Parallelism I             |                       |
+| 11/01  | Wednesday | 18    | Review                    | --                    |
+| 11/06  | Monday    | 19    | Exam                      |                       |
+| 11/08  | Wednesday | 20    | Parallelism II            | P8 Dot (V)            |
+| 11/13  | Monday    | 21    | Parallelism III           |                       |
+| 11/15  | Wednesday |       | Overflow                  | P8 Dot (V)            |
+| 11/20  | Monday    |       | BREAK                     |                       |
+| 11/22  | Wednesday |       | BREAK                     | PX Accel Dot (V)      |
+| 11/27  | Monday    |       | Linux Kernel I            |                       |
+| 11/29  | Wednesday |       | Linux Kernel II           | PX Accel Dot (V)      | 
+| 12/04  | Monday    |       | Report Reviews            |                       | 
+| 12/06  | Wednesday |       | Overflow                  | PX Accel Dot (V)      |
 | 12/14  | Wednesday | -     | Final Report Due @ 10.00am|                       | 

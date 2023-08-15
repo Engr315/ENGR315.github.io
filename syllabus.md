@@ -1,6 +1,6 @@
 # ENGR 315  Syllabus
 
-Fall, 2022
+Fall, 2023
 
 ## Description
 
@@ -179,5 +179,5 @@ clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
 ----
-Version: 2022.2
+Version: 2023.0
 

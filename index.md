@@ -31,7 +31,9 @@ applications. A more detailed description can be found in the
 
 ## Projects
 
-[P1 - Circles ](https://docs.google.com/document/d/1-CCQA5W3WXCne4WsE9izRG_VA8rVle_d_RgO6UVfJ-Y)
+[P1 -
+Optimization](https://docs.google.com/document/d/105JyX49O5bt4fwf8lDtwJeOk-tv2ZoSdRi1HCloXQ2M)
+<!@-- https://docs.google.com/document/d/1-CCQA5W3WXCne4WsE9izRG_VA8rVle_d_RgO6UVfJ-Y -->
 
 [P2 - EMA in C](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
 
@@ -73,7 +75,7 @@ This is the tentative schedule for this semester.
 |  Date  |   Day     | Number| Lecture Topic             |  Project Topic        | 
 |  --    |  -----    | --    |  -----                    |     -----             | 
 | 08/21  | Monday    | 00    | Introduction              |                       |
-| 08/23  | Wednesday | 01    | Performance Profiling     | P1 Circles (Py)       |
+| 08/23  | Wednesday | 01    | Performance Profiling     | P1 Optimization(Py)   |
 | 08/28  | Monday    | 02    | Performance Profiling II  |                       |
 | 08/30  | Wednesday | 03    | C Interfacing             | P2 Exp Mov Avg (C)    | 
 | 09/04  | Monday    | 04    | NO CLASS                  |                       |

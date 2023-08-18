@@ -40,9 +40,8 @@ Nicole Miller - ncm1@iu.edu \
 Caleb Cook - cookce@iu.edu 
 
 **Office Hours**: 
- - Tuesday: 10am-1pm 
  - Mon/Wed: 5pm-8pm (Nicole)
- - Friday:  2pm-5pm
+ - Tue/Thur: 1:30pm-4:30pm (Caleb)
  
 **Location:** 3111 Luddy Hall (one floor below 4111)
 

@@ -41,7 +41,8 @@ Caleb Cook - cookce@iu.edu
 
 **Office Hours**: 
  - Mon/Wed: 5pm-8pm (Nicole)
- - Tue/Thur: 1:30pm-4:30pm (Caleb)
+ - Tue: 1:30pm-4:30pm (Caleb)
+ - Fri: 11:00am-2pm (Caleb) (4111)
  
 **Location:** 3111 Luddy Hall (one floor below 4111)
 

@@ -33,7 +33,8 @@ applications. A more detailed description can be found in the
 
 [P1 -
 Optimization](https://docs.google.com/document/d/105JyX49O5bt4fwf8lDtwJeOk-tv2ZoSdRi1HCloXQ2M)
-<!@-- https://docs.google.com/document/d/1-CCQA5W3WXCne4WsE9izRG_VA8rVle_d_RgO6UVfJ-Y -->
+
+<!-- https://docs.google.com/document/d/1-CCQA5W3WXCne4WsE9izRG_VA8rVle_d_RgO6UVfJ-Y -->
 
 [P2 - EMA in C](https://docs.google.com/document/d/1cfBDzoIlD9y3EHx-0Q9YKQ-T1hPvglZrRkxLdxBoPe4)
 

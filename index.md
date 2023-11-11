@@ -107,4 +107,4 @@ This is the tentative schedule for this semester.
 | 11/29  | Wednesday |       | Linux Kernel II           | PX Accel Dot (V)      | 
 | 12/04  | Monday    |       | Report Reviews            |                       | 
 | 12/06  | Wednesday |       | Overflow                  | PX Accel Dot (V)      |
-| 12/14  | Wednesday | -     | Final Report Due @ 10.00am|                       | 
+| 12/11  | Monday    | -     | Final Report Due @ 10.00am|                       | 

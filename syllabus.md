@@ -1,6 +1,6 @@
 # ENGR 315  Syllabus
 
-Fall, 2023
+Fall, 2024
 
 ## Description
 
@@ -27,25 +27,19 @@ Having completed this course, you will have experience with the following:
 
 ## Instructor
 
-Andrew Lukefahr  
-lukefahr@iu.edu  
-2032 Luddy Hall  
+Bryce Himebaugh
+bhimebaugh@iu.edu  
+IF4146  
 
-Office Hours:  Monday/Wednesday 11:00am-12:00pm (after class)\
-Location:  2032 Luddy Hall and/or 3111 Luddy Hall
+Office Hours:  TDB
+Location:  IF4146 
 
 ## TA
 
-Nicole Miller - ncm1@iu.edu \
-Caleb Cook - cookce@iu.edu 
+Dave Ingalls - jdingall@iu.edu
 
 **Office Hours**: 
- - Mon: 5pm-8pm (Nicole 3111)
- - Wed: 5pm-8pm (Nicole 4111)
- - Tue: 1:30pm-4:30pm (Caleb 3111)
- - Fri: 11:00am-2pm (Caleb 4111)
- 
-**Location:** 3111 Luddy Hall (one floor below 4111)
+ - TBD
 
 ## Schedule
 
@@ -78,7 +72,6 @@ DOI 10.1007/978-1-4614-3737-6
 
 IU students can access the PDF for free at [SpringerLink](http://link.springer.com/book/10.1007/978-1-4614-3737-6)  
 ( Requires on-campus access.  Please do not post or redistribute the PDFs. )
-
 
 [The Zynq Book: Embedded Processing with the Arm Cortex-A9 on the Xilinx
 Zynq-7000 All Programmable Soc](http://www.zynqbook.com)   
@@ -179,5 +172,5 @@ clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
 ----
-Version: 2023.0
+Version: 2024.0
 

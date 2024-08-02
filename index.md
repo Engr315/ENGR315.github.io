@@ -109,4 +109,3 @@ This is the tentative schedule for this semester.
 | 12/06  | Wednesday |       | Overflow                  | PX Accel Dot (V)      |
 | 12/11  | Monday    | -     | Final Report Due @ 10.00am|                       | 
 
-## Change from Bryce

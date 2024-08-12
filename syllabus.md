@@ -60,8 +60,8 @@ Students lacking sufficient background will struggle in this course.
 
 ## Textbooks
 
-Lectures will loosely follow material taken from two different books, listed
-below.  **Both books are available for free to IU students**.
+Lectures will loosely follow material taken from three different books, listed
+below.  **All of the books are available for free to IU students**.
 
 [Practical Introduction to Hardware/Software Codesign](http://link.springer.com/book/10.1007/978-1-4614-3737-6)  
 Patrick Schaumont  
@@ -72,6 +72,14 @@ DOI 10.1007/978-1-4614-3737-6
 
 IU students can access the PDF for free at [SpringerLink](http://link.springer.com/book/10.1007/978-1-4614-3737-6)  
 ( Requires on-campus access.  Please do not post or redistribute the PDFs. )
+
+[Architecting and Building High-Speed SoCs](https://iucat.iu.edu/catalog/20779070)
+Mounir Maaref
+Packt Publishing Ltd., 2022
+ISBN 978-1-8018-1985-5 (Electronic Book)
+ISBN 978-1-8018-1099-9 (Print Book)
+
+IU Students can access this book electronically from [IUCAT](https://iucat.iu.edu/catalog/20779070). 
 
 [The Zynq Book: Embedded Processing with the Arm Cortex-A9 on the Xilinx
 Zynq-7000 All Programmable Soc](http://www.zynqbook.com)   

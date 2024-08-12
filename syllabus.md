@@ -74,12 +74,12 @@ IU students can access the PDF for free at [SpringerLink](http://link.springer.c
 ( Requires on-campus access.  Please do not post or redistribute the PDFs. )
 
 [Architecting and Building High-Speed SoCs](https://iucat.iu.edu/catalog/20779070)
-Mounir Maaref
-Packt Publishing Ltd., 2022
-ISBN 978-1-8018-1985-5 (Electronic Book)
-ISBN 978-1-8018-1099-9 (Print Book)
+Mounir Maaref    
+Packt Publishing Ltd., 2022      
+ISBN 978-1-8018-1985-5 (Electronic Book)      
+ISBN 978-1-8018-1099-9 (Print Book)     
 
-IU Students can access this book electronically from [IUCAT](https://iucat.iu.edu/catalog/20779070). 
+IU Students can access this book electronically from [IUCAT](https://iucat.iu.edu/catalog/20779070).    
 
 [The Zynq Book: Embedded Processing with the Arm Cortex-A9 on the Xilinx
 Zynq-7000 All Programmable Soc](http://www.zynqbook.com)   

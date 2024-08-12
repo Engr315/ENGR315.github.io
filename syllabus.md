@@ -73,7 +73,7 @@ DOI 10.1007/978-1-4614-3737-6
 IU students can access the PDF for free at [SpringerLink](http://link.springer.com/book/10.1007/978-1-4614-3737-6)  
 ( Requires on-campus access.  Please do not post or redistribute the PDFs. )
 
-[Architecting and Building High-Speed SoCs](https://iucat.iu.edu/catalog/20779070)
+[Architecting and Building High-Speed SoCs](https://iucat.iu.edu/catalog/20779070)   
 Mounir Maaref    
 Packt Publishing Ltd., 2022      
 ISBN 978-1-8018-1985-5 (Electronic Book)      

@@ -75,37 +75,37 @@ This is the tentative schedule for this semester.
                                                         
 |  Date  |   Day     | Number| Lecture Topic             |  Project Topic        | 
 |  --    |  -----    | --    |  -----                    |     -----             | 
-| 08/21  | Monday    | 00    | Introduction              |                       |
-| 08/23  | Wednesday | 01    | Performance Profiling     | P1 Optimization(Py)   |
-| 08/28  | Monday    | 02    | Performance Profiling II  |                       |
-| 08/30  | Wednesday | 03    | C Interfacing             | P2 Exp Mov Avg (C)    | 
-| 09/04  | Monday    | 04    | NO CLASS                  |                       |
-| 09/06  | Wednesday | 05    | Buses I                   | P3 Exp Mov Avg (V)    |
-| 09/11  | Monday    | 06    | Buses II                  |                       |
-| 09/13  | Wednesday | 06    | MMIO I                    | P3 Exp Mov Avg (V)    |
-| 09/18  | Monday    | 07    | MMIO II                   |                       |
-| 09/20  | Wednesday | 08    | Real Buses                | P4 MMIO Popcount (V)  |
-| 09/25  | Monday    | 09    | High Performance Buses    |                       |   
-| 09/27  | Wednesday | 10    | Memory / Tristate         | P5 Linux MMIO (C)     |
-| 10/02  | Monday    | 11    | C / Linux Interfacing I   |                       |
-| 10/04  | Wednesday |       | C / Linux Interfacing II  | P5 Linux MMIO (C)     |
-| 10/09  | Monday    | 12    | Overflow                  |                       |
-| 10/11  | Wednesday | 13    | Direct Memory Access I    | P6 DMA Popcount (V)   |
-| 10/16  | Monday    | 14    | Direct Memory Access II   |                       |    
-| 10/18  | Wednesday | 15    | Pipelining I              | P6 DMA Popcount (V)   |
-| 10/23  | Monday    | --    | Pipelining II             |                       |
-| 10/25  | Wednesday | --    | NO CLASS                  | P7 Linux DMA (C)      |
-| 10/30  | Monday    | 17    | Parallelism I             |                       |
-| 11/01  | Wednesday | 18    | Review                    | --                    |
-| 11/06  | Monday    | 19    | Exam                      |                       |
-| 11/08  | Wednesday | 20    | Parallelism II            | P8 Dot (V)            |
-| 11/13  | Monday    | 21    | Parallelism III           |                       |
-| 11/15  | Wednesday |       | Overflow                  | P8 Dot (V)            |
-| 11/20  | Monday    |       | BREAK                     |                       |
-| 11/22  | Wednesday |       | BREAK                     | PX Accel Dot (V)      |
-| 11/27  | Monday    |       | Linux Kernel I            |                       |
-| 11/29  | Wednesday |       | Linux Kernel II           | PX Accel Dot (V)      | 
-| 12/04  | Monday    |       | Report Reviews            |                       | 
-| 12/06  | Wednesday |       | Overflow                  | PX Accel Dot (V)      |
-| 12/11  | Monday    | -     | Final Report Due @ 10.00am|                       | 
+| 08/26  | Monday    | 00    | Introduction              |                       |
+| 08/28  | Wednesday | 01    | Performance Profiling     | P1 Optimization(Py)   |
+| 09/02  | Monday    | 02    | NO CLASS                  |                       |
+| 09/04  | Wednesday | 02    | Performance Profiling II  |                       |
+| 09/09  | Monday    | 03    | C Interfacing             | P2 Exp Mov Avg (C)    | 
+| 09/11  | Wednesday | 05    | Buses I                   | P3 Exp Mov Avg (V)    |
+| 09/16  | Monday    | 06    | Buses II                  |                       |
+| 09/18  | Wednesday | 06    | MMIO I                    | P3 Exp Mov Avg (V)    |
+| 09/23  | Monday    | 07    | MMIO II                   |                       |
+| 09/25  | Wednesday | 08    | Real Buses                | P4 MMIO Popcount (V)  |
+| 09/30  | Monday    | 09    | High Performance Buses    |                       |   
+| 10/02  | Wednesday | 10    | Memory / Tristate         | P5 Linux MMIO (C)     |
+| 10/07  | Monday    | 11    | C / Linux Interfacing I   |                       |
+| 10/09  | Wednesday |       | C / Linux Interfacing II  | P5 Linux MMIO (C)     |
+| 10/14  | Monday    | 12    | Overflow                  |                       |
+| 10/16  | Wednesday | 13    | Direct Memory Access I    | P6 DMA Popcount (V)   |
+| 10/21  | Monday    | 14    | Direct Memory Access II   |                       |    
+| 10/23  | Wednesday | 15    | Pipelining I              | P6 DMA Popcount (V)   |
+| 10/28  | Monday    | --    | Pipelining II             |                       |
+| 10/30  | Wednesday | --    | NO CLASS                  | P7 Linux DMA (C)      |
+| 11/04  | Monday    | 17    | Parallelism I             |                       |
+| 11/06  | Wednesday | 18    | Review                    | --                    |
+| 11/11  | Monday    | 19    | Exam                      |                       |
+| 11/13  | Wednesday | 20    | Parallelism II            | P8 Dot (V)            |
+| 11/18  | Monday    | 21    | Parallelism III           |                       |
+| 11/20  | Wednesday |       | Overflow                  | P8 Dot (V)            |
+| 11/25  | Monday    |       | BREAK                     |                       |
+| 11/27  | Wednesday |       | BREAK                     | PX Accel Dot (V)      |
+| 12/02  | Monday    |       | Linux Kernel I            |                       |
+| 12/04  | Wednesday |       | Linux Kernel II           | PX Accel Dot (V)      | 
+| 12/09  | Monday    |       | Report Reviews            |                       | 
+| 12/11  | Wednesday |       | Final Report Due @ 10.00am| PX Accel Dot (V)      |
+
 

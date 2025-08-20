@@ -1,6 +1,6 @@
 # ENGR 315  Syllabus
 
-Fall, 2024
+Version:  Fall, 2025, Rev 0
 
 ## Description
 
@@ -27,28 +27,24 @@ Having completed this course, you will have experience with the following:
 
 ## Instructor
 
-Bryce Himebaugh
-bhimebaugh@iu.edu  
-IF4146  
+Andrew Lukefahr
+lukefahr@iu.edu
+IF4050 
 
 Office Hours:  TDB
-Location:  IF4146 
 
 ## TA
 
-Dave Ingalls - jdingall@iu.edu
+Aiden Meyers
+aidmyers@iu.edu
 
-**Office Hours**: 
+Office Hours: 
  - TBD
 
 ## Schedule
 
-Lecture Time:  9:45a-11:00a Monday/Wednesday\
-Location: IF 4111 (Luddy Hall)
-
-<!-- Lab Time:  9:10-10:00am Friday\
-Location: IF 4111 (Luddy Hall)   
--->
+Lecture Time:  Wednesday 3:55 PM–6:55 PM
+Location: IF 3111 (Luddy Hall)
 
 ## Prerequisites
 
@@ -179,6 +175,4 @@ We will post a Canvas announcement in the case of any critical corrections or
 clarifications. It is your responsibility to ensure you are able to receive
 Canvas announcements.
 
-----
-Version: 2024.0
 

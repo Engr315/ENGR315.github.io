@@ -39,7 +39,7 @@ Aiden Meyers
 aidmyers@iu.edu
 
 Office Hours: 
- - TBD
+ - Tuesday/Thursday - 5.30p-8.30, IF3111
 
 ## Schedule
 

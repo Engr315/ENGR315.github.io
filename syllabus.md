@@ -1,6 +1,6 @@
 # ENGR 315  Syllabus
 
-Version:  Fall, 2025, Rev 0
+Version:  Fall, 2025, Rev 1
 
 ## Description
 
@@ -39,7 +39,7 @@ Aiden Meyers
 aidmyers@iu.edu
 
 Office Hours: 
- - Tuesday/Thursday - 5.30p-8.30, IF3111
+ - Tuesday/Thursday - 5.50p-8.50, IF3111
 
 ## Schedule
 

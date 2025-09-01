@@ -35,7 +35,7 @@ Office Hours:  TDB
 
 ## TA
 
-Aiden Meyers
+Aiden Myers
 aidmyers@iu.edu
 
 Office Hours: 

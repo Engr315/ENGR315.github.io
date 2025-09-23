@@ -76,12 +76,12 @@ This is the tentative schedule for this semester.
                                                         
 |  Date  |   Day     | Number| Lecture Topic             |  Project Topic        | 
 |  --    |  -----    | --    |  -----                    |     -----             | 
-| 08/27  | Wednesday | 00    | Performance Profiling     | P1 Optimization(Py)   |
-| 09/03  | Wednesday | 01    | Performance Profiling II  | P2 Exp Mov Avg (C)    | 
-| 09/10  | Wednesday | 02    | Buses                     | P3 Exp Mov Avg (V)    |
-| 09/17  | Wednesday | 03    | MMIO                      | P3 Exp Mov Avg (V)    |
-| 09/24  | Wednesday | 04    | High Performance Buses    | P4 MMIO Popcount (V)  |
-| 10/01  | Wednesday | 05    | Memory / Tristate         | P5 Linux MMIO (C)     |
+| 08/27  | Wednesday | 00/01 | Performance Profiling     | P1 Optimization(Py)   |
+| 09/03  | Wednesday | 02/03 | Performance Profiling II  | P2 Exp Mov Avg (C)    | 
+| 09/10  | Wednesday | 04/05 | Buses                     | P3 Exp Mov Avg (V)    |
+| 09/17  | Wednesday | 06/07 | MMIO                      | P3 Exp Mov Avg (V)    |
+| 09/24  | Wednesday | 08/09 | High Performance Buses    | P4 MMIO Popcount (V)  |
+| 10/01  | Wednesday | 10/11 | Memory / Tristate         | P5 Linux MMIO (C)     |
 | 10/08  | Wednesday | 06    | C / Linux Interfacing     | P5 Linux MMIO (C)     |
 | 10/15  | Wednesday | 07    | Direct Memory Access      | P6 DMA Popcount (V)   |
 | 10/22  | Wednesday | 08    | Pipelining                | P6 DMA Popcount (V)   |

@@ -1,6 +1,6 @@
 # ENGR 315  Syllabus
 
-Version:  Fall, 2025, Rev 1
+Version:  Fall, 2025, Rev 2
 
 ## Description
 
@@ -129,7 +129,7 @@ occur which would make changes necessary, at the discretion of the instructor.
 *Once a grade has been posted to Canvas, you will have one week to appeal the
 grade.*
 
-| Exam     | Projects  |  Design Challenge   | Design Report|
+| Exam     | Projects (P1-P7)  |  Design Challenge (P8+P9)   | Design Report|
 | -------- |  ---      | -------------       | --           |
 |    25%   |  45%      |    15%              | 15%          |
 

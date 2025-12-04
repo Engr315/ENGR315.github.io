@@ -82,15 +82,16 @@ This is the tentative schedule for this semester.
 | 09/17  | Wednesday | 06/07 | MMIO                      | P3 Exp Mov Avg (V)    |
 | 09/24  | Wednesday | 08/09 | High Performance Buses    | P4 MMIO Popcount (V)  |
 | 10/01  | Wednesday | 10/11 | Memory / Tristate         | P5 Linux MMIO (C)     |
-| 10/08  | Wednesday | 06    | C / Linux Interfacing     | P5 Linux MMIO (C)     |
-| 10/15  | Wednesday | 07    | Direct Memory Access      | P6 DMA Popcount (V)   |
-| 10/22  | Wednesday | 08    | Pipelining                | P6 DMA Popcount (V)   |
-| 10/29  | Wednesday | 09    | Parallelism I             | P7 Linux DMA (C)      |
-| 11/05  | Wednesday | 10    | Parallelism II / Review   | --                    |
+| 10/08  | Wednesday | 12/13 | C / Linux Interfacing     | P5 Linux MMIO (C)     |
+| 10/15  | Wednesday | 14    | Direct Memory Access      | P6 DMA Popcount (V)   |
+| 10/22  | Wednesday | 15    | Direct Memory Access      | P6 DMA Popcount (V)   |
+| 10/29  | Wednesday | 16    | Pipelining I              | P7 Linux DMA (C)      |
+| 11/05  | Wednesday | 17    | Pipelining II / Review    | --                    |
 | 11/12  | Wednesday | --    | Exam                      | P8 Dot (V)            |
-| 11/19  | Wednesday | 11    | Parallelism III           | P8 Dot (V)            |
+| 11/19  | Wednesday | 18    | Parallelism I             | P8 Dot (V)            |
 | 11/26  | Wednesday | --    | BREAK                     | PX Accel Dot (V)      |
-| 12/03  | Wednesday | 12    | Linux Kernel              | PX Accel Dot (V)      | 
-| 12/10  | Wednesday | --    | Final Report Due @ 06:55pm| PX Accel Dot (V)      |
+| 12/03  | Wednesday | 19    | Parallelism II            | PX Accel Dot (V)      | 
+| 12/10  | Wednesday | --    | Overflow                  | PX Accel Dot (V)      |
+| 12/17  | Wednesday | --    | Final Report Due @ 06:55pm| PX Accel Dot (V)      |
 
 
